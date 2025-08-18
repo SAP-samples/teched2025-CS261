@@ -20,7 +20,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - Health Monitoring
     - Familiarize yourself with the application
     - [Exercise 1 - Using Health Monitoring](exercises/ex0/)
-        - [a. Adjust Time Frame](excercises/ex0/1a_Adjust_Time_Frame.md)
+        - [a. Adjust Time Frame](exercises/ex0/1a_Adjust_Time_Frame.md)
         - b. Adjust Resolution
         - c. ...
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
