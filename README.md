@@ -18,11 +18,16 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Getting Started](landscape_information.md)
 - Health Monitoring
-    - Familiarize yourself with the application
-    - [Exercise 1 - Using Health Monitoring](exercises/ex0/)
-        - [a. Adjust Time Frame](exercises/ex0/1a_Adjust_Time_Frame.md)
-        - b. Adjust Resolution
-        - c. ...
+    - [Familiarize yourself with Health Monitoring](exercises/ex1/1_HealthMonitoring_Base.md)
+    - [Exercise 1 - Using Health Monitoring](exercises/ex1/)
+        - [a. Adjust Time Frame](exercises/ex1/1a_Adjust_Time_Frame.md)
+        - [b. Adjust Resolution](exercises/ex1/1b_Adjust_Resolution.md)
+        - [c. Which library version is used by the custom app](exercises/ex1/1c_Which_library_is_used.md)
+        - [d. Check which Events and Alerts are configured](exercises/ex1/1d_Check_which_Events_and_Alerts.md)
+        - [e. Add Service to Favorites](exercises/ex1/1e_Add_Service_to_Favorites.md)
+        - [f. Explore What’s New](exercises/ex1/1f_Explore_Whats_New.md)
+        - [g. In App Help Use Spots](exercises/ex1/1g_In_App_Help_Use_Spots.md)
+    - [Navigate to SAP Cloud Logging](exercises/ex1/1_HealthMonitoring_CloudLogging.md)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
