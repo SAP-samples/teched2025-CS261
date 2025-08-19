@@ -29,7 +29,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - [1.7 In App Help Use Spots](exercises/ex1/1_HealthMonitoring_Exercises.md#17-in-app-help-use-spots)
     - [Navigate to SAP Cloud Logging](exercises/ex1/1_HealthMonitoring_CloudLogging.md)
         - [1.8 Adjust Time Window and explore exceptions raised for other traces](exercises/ex1/1_HealthMonitoring_Exercises.md#18-adjust-time-window-and-explore-exceptions-raised-for-other-traces)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
+- Exception Monitoring
+    - [Familiarize yourself with Health Monitoring](exercises/ex2/)
+    - [Navigate to SAP Cloud Logging](exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
+- [Exercise 2 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
