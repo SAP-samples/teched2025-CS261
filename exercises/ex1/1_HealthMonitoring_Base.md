@@ -23,7 +23,7 @@ Result: Based on your selection, you will see a card for services of the type �
  
 - Select Metric “Java Memory: Eden Space”
  
-- Open History
+- Open History and analyse the trend
 
 ## Use In-App Help
 
