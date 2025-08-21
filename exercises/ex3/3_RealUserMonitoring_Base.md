@@ -19,7 +19,7 @@ different platforms with a unified user experience using a common look-and-feel 
 
 ## Explore Requests 
 - Home
-> Screenoshot: 'Home' page of Real User Monitoring
+> Screenshot: 'Home' page of Real User Monitoring
 
 - Navigate to Request Type "SAPUI5" in the SAP Build Work Zone, Standard Edition
 > Screenshot: Requests page of Real User Monitoring
@@ -47,3 +47,6 @@ The next steps are an example to explore the details in the area of the customer
 - Click the rows to see details per request
 > Screenshot: Execution table with a selected row
 
+## (optional) Checkout available pages
+
+> Screenshot: Left-hand side menu (Expand Page List)
