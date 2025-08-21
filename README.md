@@ -17,6 +17,7 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](landscape_information.md)
+
 - Health Monitoring
     - [Familiarize yourself with Health Monitoring](exercises/ex1/1_HealthMonitoring_Base.md)
     - [Exercise 1 - Using Health Monitoring](exercises/ex1/1_HealthMonitoring_Exercises.md#health-monitoring-excercises)
@@ -29,9 +30,26 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - [1.7 In App Help Use Spots](exercises/ex1/1_HealthMonitoring_Exercises.md#17-in-app-help-use-spots)
     - [Navigate to SAP Cloud Logging](exercises/ex1/1_HealthMonitoring_CloudLogging.md)
         - [1.8 Adjust Time Window and explore exceptions raised for other traces](exercises/ex1/1_HealthMonitoring_Exercises.md#18-adjust-time-window-and-explore-exceptions-raised-for-other-traces)
-- Exception Monitoring
-    - [Familiarize yourself with Health Monitoring](exercises/ex2/)
+
+- Integration and Exception Monitoring
+    - [Familiarize yourself with Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Base.md)
+    - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Exercises.md)
     - [Navigate to SAP Cloud Logging](exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
+
+- Real User Monitoring
+    - [Familiarize yourself with Real User Monitoring](exercises/ex3/3_RealUserMonitoring_Base.md)
+    - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex3/3_RealUserMonitoring_Exercises.md)
+        - [2.1 Checkout available pages](exercises/ex3/3_RealUserMonitoring_Solutions.md#21-checkout-available-pages)
+        - [2.2 Front End Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#22-front-end-analysis)
+        - [2.3 Check out Related Links](exercises/ex3/3_RealUserMonitoring_Solutions.md#23-check-out-related-links)
+        - [2.4 Timeout Error Root Cause Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#24-timeout-error-root-cause-analysis)
+    - [Navigate to SAP Cloud Logging](exercises/ex3/3_RealUserMonitoring_CloudLogging.md)
+
+- Business Process Monitoring
+    - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BPMonitoring_Base.md)
+    - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex4/4_BPMonitoring_Exercises.md)
+    - [Navigate to SAP Cloud Logging](exercises/ex4/4_BPMonitoring_CloudLogging.md)    
+    
 - [Exercise 2 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
