@@ -14,3 +14,10 @@
 
 - **Result**: Show detailed trace in Cloud Logging
 > Cloud logging trace details
+
+**Next Step**
+[Continue to Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)
+
+**Additional Links**
+[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
+[Session Overview](/README.md#overview)

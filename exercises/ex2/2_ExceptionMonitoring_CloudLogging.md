@@ -9,3 +9,11 @@ Prerequisites: Navigate from Exception Overview to a certain exception (see chap
 
 - Exception OTel Spans and Logs in SAP Cloud Logging
 > Insert screenshot: Cloud Logging 
+
+
+**Next Step**
+[Continue to Exercises](/exercises/ex2/2_ExceptionMonitoring_Exercises.md)
+
+**Additional Links**
+[Integration and Exception Monitoring Overview](/exercises/ex2/2_ExceptionMonitoring_Base.md)
+[Session Overview](/README.md#overview)

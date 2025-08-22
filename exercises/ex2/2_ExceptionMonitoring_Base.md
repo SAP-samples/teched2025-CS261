@@ -104,3 +104,25 @@ guided through an exception-based context.
 
 - **Hint**: You can also use the “Full Screen” option
 > Insert screenshot: Maximise button
+
+## Raise an exception in the custom application
+
+- Open the Launchpad
+> Screenshot: Launchpad showing custom apps
+
+- Navigate to "Process Travels"
+> Screenshot: Process Travels app
+
+- Select Travel with Travel Status "Accepted" and try to "Reject Travel".
+  (not allowed as per application logic)
+> Screenshot: Travel with Status 'Accepted' selected and "reject travel" button focused
+
+- **Result**
+> Error popup showing Invalid travel status
+
+
+**Next Step**
+[Proceed to Cloud Logging](/exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
+
+**Additional Links**
+[Session Overview](/README.md#overview)
