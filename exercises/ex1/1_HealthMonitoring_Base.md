@@ -34,4 +34,8 @@ Result: Based on your selection, you will see a card for services of the type â€
 - Result
  
 â€ƒ
+**Next Step**
+[Proceed to Cloud Logging](/exercises/ex1/1_HealthMonitoring_CloudLogging.md)
 
+**Additional Links**
+[Session Overview](/README.md#overview)

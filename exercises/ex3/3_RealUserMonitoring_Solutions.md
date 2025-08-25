@@ -1,23 +1,19 @@
 # Real User Monitoring Solutions
 
-## 2.1 Checkout available pages
-- Click on the Button "Expand Page List"
-> Screenshot: Page Navaigation list expanded
-
-## 2.2 Front End Analysis
+## 2.1 Front End Analysis
 - Navigate to Page "Front End"
 > Screenshot: "Front End" Page
 
 - **Result**: (As per screenshot)
 Fair distribution each one third: Mac OS, Mac OS 15.4., and Windows 10
 
-## 2.3 Check out Related Links
+## 2.2 Check out Related Links
 - Open the Related Link section in the menu
 > Screenshot: "Related Links" button clicked
 
 - You can make use of the links and information provided in the section
 
-## 2.4 Timeout Error Root Cause Analysis
+## 2.3 Timeout Error Root Cause Analysis
 - Home
 > Screenshot: "Home" page
 
@@ -52,3 +48,11 @@ Fair distribution each one third: Mac OS, Mac OS 15.4., and Windows 10
 > Screenshot: Cloud logging with spans focused
 
 
+**Next Step**
+[Business Process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)
+
+
+**Additional Links**
+[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
+[Real User Monitoring Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)
+[Session Overview](/README.md#overview)
