@@ -34,8 +34,7 @@ Please continue with the excercise <LINK> to create you own Custom KPI, as part 
 =======
 
 **Next Step**
-[Proceed to Cloud Logging](/exercises/ex4/4_BusinessProcessMonitoring_CloudLogging.md)
+[Continue to Exercises](/exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
 
 **Additional Links**
 [Session Overview](/README.md#overview)
-
