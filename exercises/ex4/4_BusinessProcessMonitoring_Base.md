@@ -1,8 +1,6 @@
 # Business Process Monitoring
 
-
 > Insert screenshot: CALM Home -> Tile Highlighted
-
 
 ## Scope Selection and Home
 
@@ -33,3 +31,11 @@
 ## Information
 
 Please continue with the excercise <LINK> to create you own Custom KPI, as part of the exercise you will have the opportunity to define an event, adjust the graph, work with views, and explore further capabilities. 
+=======
+
+**Next Step**
+[Proceed to Cloud Logging](/exercises/ex4/4_BusinessProcessMonitoring_CloudLogging.md)
+
+**Additional Links**
+[Session Overview](/README.md#overview)
+

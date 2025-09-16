@@ -50,3 +50,10 @@ The next steps are an example to explore the details in the area of the customer
 ## (optional) Checkout available pages
 
 > Screenshot: Left-hand side menu (Expand Page List)
+
+
+**Next Step**
+[Proceed to Cloud Logging](/exercises/ex3/3_RealUserMonitoring_CloudLogging.md)
+
+**Additional Links**
+[Session Overview](/README.md#overview)

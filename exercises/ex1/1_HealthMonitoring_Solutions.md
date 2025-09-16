@@ -70,3 +70,13 @@ Alert are active for “High CPU Utilization”, “High Disk Utilization”, an
 
 - Click on the filter starting with “traceId:” so see results across the resource
 > Screenshot: Results filtered by specific traceId
+
+
+**Next Step**
+[Integration and Exception Monitoring Overview](/exercises/ex2/2_ExceptionMonitoring_Base.md)
+
+
+**Additional Links**
+[Health Monitoring Overview](/exercises/ex1/1_HealthMonitoring_Base.md)
+[Health Monitoring Exercises](/exercises/ex1/1_HealthMonitoring_Exercises.md)
+[Session Overview](/README.md#overview)
