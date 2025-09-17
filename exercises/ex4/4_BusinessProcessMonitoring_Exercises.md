@@ -6,6 +6,13 @@ Disclaimer: These tasks contain the relevant steps - the relevant solution are e
 
 ...
 
+ZKPITBP001.  <participant number>
+ZKPITBP045
+
+001 Travel Bookings in Status Open
+
+Same definition as for ZKPITB0001
+
 ## 1.2 Check Data Collection (Guided Excercise)
 
 ...
@@ -34,3 +41,11 @@ Disclaimer: These tasks contain the relevant steps - the relevant solution are e
 
 **** link to Thank you page & feedback?
 
+
+     ########.  #   #      ###
+         #.     #   #     #.  #   
+         #      #####    #######
+         #      #   #   #       #
+         #.     #.  #  #.        #
+
+         TM C SJ NK
