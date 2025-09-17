@@ -9,7 +9,10 @@ Explore the Related Links area and check out the links provided
 ## 2.3 Timeout Error Root Cause Analysis
 Analyze the time out issue being shown by the instructor and figure out the root cause
 
+## 2.4 Creating a Custom Page (Guided Excercise)
 
+
+## 2.5 Sharing a Custom Page (Guided Excercise)
 
 **Next Step**
 [Refer to the Solutions](/exercises/ex3/3_RealUserMonitoring_Solutions.md)

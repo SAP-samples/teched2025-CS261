@@ -32,6 +32,10 @@ The In-App help offers further information in various places within the applicat
 
 The default view contains data collected during the last 15 Minutes, adjust the Time Windows to gain insights on the memory and see what other exceptions have been raised in the in other traces collected for the resource
 
+## 1.9 Placeholder - SAP HANA Cloud Monitoring Excercise
+
+....
+
 **Next Step**
 [Refer to the Solutions](/exercises/ex1/1_HealthMonitoring_Solutions.md)
 [Continue to Integration and Exception Monitoring Overview](/exercises/ex2/2_ExceptionMonitoring_Base.md)
