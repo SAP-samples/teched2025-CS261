@@ -21,12 +21,13 @@
 
 
 - Sign In to SAP Cloud Logging (account see chapter Cloud Identity Services)
+- Hint: In case being asked to select your tenant: Select “Global”, confirm and open the link again
+
 
 - Result\
 ![Metric Cloud Logging](images/HM_CloudLogging.png)
 
 
-- Hint: In case being asked to select your tenant: Select “Global”, confirm and open the link again
 
 
 - Adjust Time Window\
