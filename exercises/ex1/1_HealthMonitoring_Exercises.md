@@ -2,11 +2,11 @@
 
 ## 1.1 Adjust Time Frame
 
-Figure out further details on the Eden Space Java Memory evolution during the last days
+Figure out further details on the "Memory: Eden Space (Java)" evolution during the last days
 
 ## 1.2 Adjust Resolution
 
-Figure out further details on the Eden Space Java Memory considering time intervals for 15 minutes
+Figure out further details on the "Memory: Eden Space (Java)" considering time intervals for 15 minutes
 
 ## 1.3 Which library version is used by the custom app
 
