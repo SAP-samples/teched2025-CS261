@@ -1,23 +1,22 @@
 # Navigate to Cloud Logging
 
 - Navigate to request details [Refer](3_RealUserMonitoring_Base.md#explore-requests) 
-> Screenshot: RUm Execution details
+![RUM Request Details](images/RUM_CloudLogging.png)
 
 - Open Navigation Links for HTTPS request “sflight-srv”
-> Screenshot: Navigation link highlighted
+![Navigation Links](images/RUM_CL_Link.png)
 
 - Navigation Links
-> Screenshot: Navigation links popup
+![RUM Cloud Logging Link](images/RUM_ClLink_Highlighted.png)
 
 - Sign In to SAP Cloud Logging (account see chapter Cloud Identity Services)
-> Screenshot: Cloud Logging logon screen
 
 - **Result**: Show detailed trace in Cloud Logging
-> Cloud logging trace details
+![RUM Cloud Logging Result](images/RUM_CloudLogging_Result.png)
 
-**Next Step**
+**Next Step**\
 [Continue to Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)
 
-**Additional Links**
-[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
+**Additional Links**\
+[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)\
 [Session Overview](/README.md#overview)

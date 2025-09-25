@@ -14,10 +14,10 @@ Analyze the time out issue being shown by the instructor and figure out the root
 
 ## 2.5 Sharing a Custom Page (Guided Excercise)
 
-**Next Step**
-[Refer to the Solutions](/exercises/ex3/3_RealUserMonitoring_Solutions.md)
+**Next Step**\
+[Refer to the Solutions](/exercises/ex3/3_RealUserMonitoring_Solutions.md)\
 [Continue to Business Process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)
 
-**Additional Links**
-[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
+**Additional Links**\
+[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)\
 [Session Overview](/README.md#overview)

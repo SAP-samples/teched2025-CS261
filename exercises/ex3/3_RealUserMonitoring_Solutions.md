@@ -2,57 +2,54 @@
 
 ## 2.1 Front End Analysis
 - Navigate to Page "Front End"
-> Screenshot: "Front End" Page
-
-- **Result**: (As per screenshot)
-Fair distribution each one third: Mac OS, Mac OS 15.4., and Windows 10
+![RUM Front End](<images/RUM Front End.png>)
 
 ## 2.2 Check out Related Links
 - Open the Related Link section in the menu
-> Screenshot: "Related Links" button clicked
+![RUM Related Links](<images/RUM Related Links.png>)
 
 - You can make use of the links and information provided in the section
 
 ## 2.3 Timeout Error Root Cause Analysis
 - Home
-> Screenshot: "Home" page
+![RUM Home](images/RUM_Home_CustomeTime.png)
 
 - Navigate to Requests (New)
-> Screenshot: Requests (New) Page
+![RUM Requests(New)](<images/RUM Requests(New).png>)
 
 - Adjust dimensions
-> Screenshot: Requests (New) - Dimension Button focused
+![RUM Requests Dimension](<images/RUM Requests Dimension.png>)
 
 - Select “Request Name”, “Request Type”, and “Action”
-> Screenshot: Dimensions drop down
+![Dimesion Selection](<images/RUM Dimension Selection.png>)
 
 - Close. The table should be updated according to the selected "Dimensions"
->Screenhot: Request(New) page with updated results
+![Updated Request Dimensions](<images/RUM_Dimension_Updated.png>)
 
 - Select Request with Action “Go button”
-> Screenshot: Intended row highlighted 
+![RUM Request Go Button](<images/RUM Go Button.png>) 
 
 - Execution List
-> Screenshot: Execution List
+![RUM Request Executions](images/RUM_Request_Executions.png)
 
 - Select the relevant execution to navigate to the details
-> Screenshot: Execution details
+![Execution Details](images/RUM_Execution_Graph.png)
 
 - Open Navigation Options and “Show detailed trace in Cloud Logging”
-> Screenshot: Links popup opened
+![RUM Navigation Links](images/RUMLinks.png)
 
 - Trace details in SAP Cloud Logging
-> Screenshot: Cloud logging
+![Cloud Logging](images/RUM_CloudLogging_ex.png)
 
 - Explore spans to learn more about the request content
-> Screenshot: Cloud logging with spans focused
+![Cloud Logging Span](images/RUM_CL_Span.png)
 
 
-**Next Step**
+**Next Step**\
 [Business Process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)
 
 
-**Additional Links**
-[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
-[Real User Monitoring Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)
+**Additional Links**\
+[Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)\
+[Real User Monitoring Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)\
 [Session Overview](/README.md#overview)
