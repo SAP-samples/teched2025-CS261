@@ -4,81 +4,77 @@ Integration and Exception Monitoring provide transparency for data exchange proc
 supports monitoring for peer-to-peer interfaces and interfaces using orchestration platforms and provides a
 unified user experience for all interface types using a common look-and-feel and handling pattern.
 
-> Insert screenshot: CALM Home -> Tile Highlighted
+![CALM Home IEM](images/CALM_Home_IEM.png)
 
 
 ## Scope Selection and Home
 
 - Open the Scope Selector
-> Insert screenshot: Scope Selector Opened
+![Scope Selector Opened](images/IEM_Scope_Selector.png)
 
 - Change the Filter for Managed Components, select “Service” and press “Go”
-> Insert screenshot: Scope Selector Filter selection
+![IEM Scope Services](images/IEM_Scope_Services.png)
 
 - Select “BTP_Subaccount_HandsOn”, Service Type “SAP BTP, Cloud Foundry environment”
-> Insert screenshot: Scope Selector Value selection
+![IEM Scope Selector Results](images/IEM_Scope_Result.png)
 
 - Apply your selection
->Insert screenshot: Scope Selector - Highlighting the Apply button
+![IEM Scope Selected](images/IEM_Scope_Selected.png)
 
 - **Result**: You will see services a card for services of the type “SAP BTP, Cloud Foundry environment” in the
 Overview area, based on your selection.
->Insert screenshot: Home - Integration and Exception Monitoring
+![IEM Home](images/IEM_Home.png)
 
 
 ## Explore Exceptions
 - Navigate to the Home of Integration and Exception Monitoring
-> Insert screenshot: Home - Integration and Exception Monitoring
+![IEM Home](images/IEM_Home-1.png)
 
 - Navigate to "Exceptions" by clicking on "Exceptions" link on BTP Subaccount Service Card
-> Insert screenshot: Home - Card with Exceptions in focus
+![IEM Home Exceptions](images/IEM_Home_Exceptions_Link.png)
 
 - **Result**: Exception Overview 
-> Insert screenshot: Exceptions page
+![IEM Exception Overview](images/IEM_Exceptions_Overview.png)
 
 - Click on individual Exceptions to explore details
-> Insert screenshot: Exceptions Page with highlighted exception
+![IEM Exception](images/IEM_Exception.png)
 
 - Collection Context
-> Insert screenshot: Exception details
+![IEM Exception Details](images/IEM_Exception_CollectionContext.png)
 
--  Navigate through the details of the exception via “Association Context”, “Call Stack”, and “Process Arguments”
+-  Navigate through the details of the exception via “Association Context” and “Call Stack”
 
 ## Time Frame
 - Navigate to the Home of Integration and Exception Monitoring
-> Insert screenshot: Home - Integration and Exception Monitoring
+![IEM Home](images/IEM_Home.png)
 
 - Click on Time Frame, Select “Last 7 days”
-> Insert screenshot: Time Frame Selector
+![IEM Custom Time Frame](images/IEM_TimeFrame.png)
 
 - **Result**: Collected data is shown based on the selection Time Frame
-> Insert screenshot: Home - Integration and Exception Monitoring
+![Custom Time Frame Result](images/IEM_TimeFrame_Result.png)
 
 ## Search in Exceptions
 - Navigate to the Home in Integration and Exception Monitoring
-> Insert screenshot: Home - Integration and Exception Monitoring
+![Custom Time Frame Result](images/IEM_TimeFrame_Result.png)
 
 - Navigate to Tracking Page in Integration and Exception Monitoring
-> Insert screenshot: Tracking - Integration and Exception Monitoring
-
 - Enter details for search. E.g. “Invalid”
-> Insert screenshot: Tracking 
+![IEM Tracking](images/IEM_Tracking.png)
 
 - Navigate to “Exceptions”
   **Info**: The search is search for both Integration as well as Exceptions
-> Insert screenshot: Tracking 
+![IEM Tracking Exception](images/IEM_Tracking_SearchException.png)
 
 - Click on Result (Exception)
-> Insert screenshot: Tracking
+![Exception Details](images/IEM_ExceptionDetails.png)
 
--  Check Log Message **Check if this button exists**
-> Insert screenshot: Log
 
 - Navigate to Page Exception
-> Insert screenshot: Exception
+![IEM Exceptions](images/IEM_Exception_Page.png)
 
 - **Additional Information**: You can find further details in Card Information
-> Insert screenshot: Card Information button clicked
+![IEM Card Information](images/IEM_CardDetails.png)
 
 
 ## Alerting
@@ -89,21 +85,22 @@ guided through an exception-based context.
 **Please do not confirm Alert(s) so that all participants can explore those.**
 
 - Page: Exceptions
-> Insert screenshot: Exceptions page
+![IEM Exceptions](images/IEM_Exception_Page.png)
 
 - Navigate to Open Alerts
-> Insert screenshot: Alerting 
+![IEM Alerting](images/IEM_Alerting.png)
 
 -  Navigate to “**Erroneous Java Application**” with Object Details “Invalid Status. (must be ‘Open’)”
+![IEM Java Alert](images/IEM_JavaAlert.png)
 
 - Navigate to Errors
-> Insert screenshot: Alert Details page with Errors tab selected
+![IEM Alert Details](images/IEM_JavaAlert_Details.png)
 
 - By clicking on a certain message, details are shown.
-> Insert screenshot: Specific message selected in Alerting
+![IEM Error Details](images/IEM_ErrorDetails.png)
 
 - **Hint**: You can also use the “Full Screen” option
-> Insert screenshot: Maximise button
+![IEM Alerting Full Screen](images/IEM_Alerting_FullScreen.png)
 
 ## Raise an exception in the custom application
 
@@ -121,8 +118,8 @@ guided through an exception-based context.
 > Error popup showing Invalid travel status
 
 
-**Next Step**
+**Next Step**\
 [Proceed to Cloud Logging](/exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
 
-**Additional Links**
+**Additional Links**\
 [Session Overview](/README.md#overview)
