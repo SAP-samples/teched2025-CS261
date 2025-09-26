@@ -1,40 +1,48 @@
 # Business Process Monitoring
 
-> Insert screenshot: CALM Home -> Tile Highlighted
+![CALM Home - BPMon](images/CALM_Home_BPMon.png)
 
 ## Scope Selection and Home
 
 - Open the Scope Selector
-> Insert screenshot: Scope Selector Opened
+![BPMon Scope Selector](images/BPMon_Scope_Selector.png)
 
 - Change the Filter for Managed Components, select “Service” and press “Go”
-> Insert screenshot: Scope Selector Filter selection
+![BPMon Scope Filter](<images/BPMon Scope Filter.png>)
 
 - Select “BTP_Subaccount_HandsOn”, Service Type “SAP BTP, Cloud Foundry environment”
-> Insert screenshot: Scope Selector Value selection
+![BPMon Scope Selected](images/BPMon_ScopeSelected.png)
 
 - Apply your selection
->Insert screenshot: Scope Selector - Highlighting the Apply button
+![BPMon Apply Scope](images/BPMon_ScopeApplied.png)
 
 - **Result**: Based on the selected scope the relevant data in KPIs is shown. In the Overview Area you can see predelivered processes as well as the Custom KPI process.
 
->Insert screenshot: Home - Business Process Monitoring
+![BPMon Home](images/BPMon_Home.png)
 
 ## Navigation within KPIs based on Custom KPI
 
 - Home
+![BPMon Home](images/BPMon_Home.png)
  
 - Select process "Custom KPI"
- 
-- Select “Others”  > "Others" OR click on the KPI "..."
+![BPMon Custom KPI](images/BPMon_CustomKPI.png) 
 
-## Information
+- Select “Others” 
+![BPMon Custom KPI Navigation](images/BPMon_CustomKPI_Nav.png)
 
-Please continue with the excercise <LINK> to create you own Custom KPI, as part of the exercise you will have the opportunity to define an event, adjust the graph, work with views, and explore further capabilities. 
-=======
+- Click on the KPI "Travel Bookings in Status Open"
+![BPMon KPI Travel Bookings](images/BPMon_TravelKPI.png)
 
-**Next Step**
+- **Result**\
+KPI Details
+![BPMon KPI Details](images/BPMon_KPIDetails.png)
+
+- **Information**\
+Please continue with the [exercises](/exercises/ex4/4_BusinessProcessMonitoring_Exercises.md) to create you own Custom KPI, as part of the exercise you will have the opportunity to define an event, adjust the graph, work with views, and explore further capabilities. 
+
+**Next Step**\
 [Continue to Exercises](/exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
 
-**Additional Links**
+**Additional Links**\
 [Session Overview](/README.md#overview)
