@@ -10,7 +10,7 @@
 - Change the Filter for Managed Components, select “Service” and press “Go”
 ![BPMon Scope Filter](<images/BPMon Scope Filter.png>)
 
-- Select “BTP_Subaccount_HandsOn”, Service Type “SAP BTP, Cloud Foundry environment”
+- Select “SAPTechEd-HandsOn-CF”, Service Type “SAP BTP, Cloud Foundry environment”
 ![BPMon Scope Selected](images/BPMon_ScopeSelected.png)
 
 - Apply your selection
