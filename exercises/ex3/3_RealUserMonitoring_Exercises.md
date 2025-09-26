@@ -10,6 +10,21 @@ Explore the Related Links area and check out the links provided
 Analyze the time out issue being shown by the instructor and figure out the root cause
 
 ## 2.4 Creating a Custom Page (Guided Excercise)
+- Click on the "Add Custom Page" button at the bottom of Page List 
+![RUM Add Custom Page](images/RUM_AddCustomPage.png)
+
+- Select Views and Drag it to the Page
+![RUM Custom Views](images/RUM_Select_Views.png)
+
+- Provide and Name and an Icon for the Page
+![RUM Name and Icon for the Custom Page](images/Custom_Page_NameIcon.png)
+
+- Save the Page
+![RUM Save Custom Page](images/CustomPage_Save.png)
+
+- **Result**\
+You can see that the newly added Page appears on the Page List and will be available on sunsequest revisits
+![RUM Custom Page](images/RUM_Custom_Page.png)
 
 
 ## 2.5 Sharing a Custom Page (Guided Excercise)
