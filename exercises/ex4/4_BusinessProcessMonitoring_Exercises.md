@@ -7,6 +7,8 @@ Disclaimer: These tasks contain the relevant steps - the relevant solution are e
 ...
 
 ZKPITBP001.  <participant number>
+
+ZKPITBP044 - Create a custom KPI
 ZKPITBP045
 
 001 Travel Bookings in Status Open

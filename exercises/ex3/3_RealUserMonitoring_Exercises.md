@@ -23,11 +23,13 @@ Analyze the time out issue being shown by the instructor and figure out the root
 ![RUM Save Custom Page](images/CustomPage_Save.png)
 
 - **Result**\
-You can see that the newly added Page appears on the Page List and will be available on sunsequest revisits
+You can see that the newly added Page appears on the Page List and will be available on subsequest revisits
 ![RUM Custom Page](images/RUM_Custom_Page.png)
 
+- **Note**\
+Additionally, as an **Admin**, it is also possible to share custom pages with other users
+![RUM Share Custom Page](images/RUM_ShareCustomPage.png)
 
-## 2.5 Sharing a Custom Page (Guided Excercise)
 
 **Next Step**\
 [Refer to the Solutions](/exercises/ex3/3_RealUserMonitoring_Solutions.md)\

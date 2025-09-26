@@ -2,21 +2,21 @@
 
 # 2.1 Adjust Time Window and explore exceptions raised for other traces (Guided Excercise)
 
-Navigate from an exception to SAP Cloud Logging
+-  Click on Exception Message (link: “Invalid travel Status (must be ‘Open’)”)
+![IEM Cloud Logging Navigation](images/IEM_NavToCloudLogging.png)
 
-add filter
-com.sap.cap.sflight.processor.AcceptRejectHandler
+- Add filter "com.sap.cap.sflight.processor.AcceptRejectHandler" by hovering and clicking on "+"
+![Cloud Logging - Add Filter](images/CloudLogging_AddFilter.png)
 
-disable traceID as filter
+- Disable "traceid" from filter. Click on "traceid" and select "Temporarily disable"
+![Cloud Logging - Disable Filter](images/CloudLogging_Disable.png)
 
-see something needs to be fixed with the app
+- **Result**
+![Cloud Logging - All Occurences](images/CloudLogging_AllOccurences.png)
 
-# 2.2 Search for in Exceptions (Guided Excercise)
-
-
-**Next Step**
+**Next Step**\
 [Continue to Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)
 
-**Additional Links**
-[Integration and Exception Monitoring Overview](/exercises/ex2/2_ExceptionMonitoring_Base.md)
+**Additional Links**\
+[Integration and Exception Monitoring Overview](/exercises/ex2/2_ExceptionMonitoring_Base.md)\
 [Session Overview](/README.md#overview)
