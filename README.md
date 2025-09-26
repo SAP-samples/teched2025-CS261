@@ -36,15 +36,15 @@ The requirements to follow the exercises in this repository are...
 
 - [Real User Monitoring](exercises/ex3/)
     - [Familiarize yourself with Real User Monitoring](exercises/ex3/3_RealUserMonitoring_Base.md)
-    - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex3/3_RealUserMonitoring_Exercises.md)
-        - [2.1 Front End Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#22-front-end-analysis)
-        - [2.2 Check out Related Links](exercises/ex3/3_RealUserMonitoring_Solutions.md#23-check-out-related-links)
-        - [2.3 Timeout Error Root Cause Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#24-timeout-error-root-cause-analysis)
+    - [Exercise 3 - Using Real User Monitoring](exercises/ex3/3_RealUserMonitoring_Exercises.md)
+        - [3.1 Front End Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#22-front-end-analysis)
+        - [3.2 Check out Related Links](exercises/ex3/3_RealUserMonitoring_Solutions.md#23-check-out-related-links)
+        - [3.3 Timeout Error Root Cause Analysis](exercises/ex3/3_RealUserMonitoring_Solutions.md#24-timeout-error-root-cause-analysis)
     - [Navigate to SAP Cloud Logging](exercises/ex3/3_RealUserMonitoring_CloudLogging.md)
 
 - [Business Process Monitoring](exercises/ex4/)
     - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Base.md)
-    - [Exercise 3 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
+    - [Exercise 4 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
     - [Navigate to SAP Cloud Logging](exercises/ex4/4_BusinessProcessMonitoring_CloudLogging.md)    
 
 
