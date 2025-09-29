@@ -10,7 +10,7 @@ This session introduces attendees to monitoring a custom SAP BTP application. Th
 
 ## Requirements
 
-For the session we already prepared the landscape, you can find further details on the required componens, settings and credentials in the ![chapter](/landscape_information.md) and embedded links. 
+For the session we already prepared the landscape, you can find further details on the required componens, settings and credentials in the [chapter](/landscape_information.md) and embedded links. 
 
 ## Exercises
 
@@ -46,12 +46,6 @@ For the session we already prepared the landscape, you can find further details 
     - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Base.md)
     - [Exercise 4 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
     - [Navigate to SAP Cloud Logging](exercises/ex4/4_BusinessProcessMonitoring_CloudLogging.md)    
-
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
