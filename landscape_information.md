@@ -12,7 +12,7 @@ The following picture shows the architecture from a high-level perspective as we
 
 ![High-Level Landscape Architecture](/exercises/overall_content/landscape_architecture.png)
 
-For this session we already prepared the custom SAP BTP application for the monitoring. You can find all related steps in the following addition chapter for you reference. These details are not relevant in order to participate the session and follow the excercises.
+For this session we already prepared the custom SAP BTP application for the monitoring. You can find all related steps in the following ![additional chapter](/exercises/overall_content/Additional_Information_Instrumentation.md) for you reference. These details are not relevant in order to participate the session and follow the excercises.
 
 ## Custom SAP BTP Application
 
@@ -34,7 +34,6 @@ If being asked, select "...." during authentication process.
 Via the following SAP Build Workzone Launchpad URL you can access the SFlight application:
 
 https://cs261-n5i2x9xc.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=7f5e32cf-5ca9-491b-946f-1ea71063afea#Shell-home 
-
 
 ### SAP Cloud ALM
 

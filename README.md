@@ -2,15 +2,15 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called CS261 - Monitoring a custom SAP BTP application with SAP Cloud ALM for operations.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to monitoring a custom SAP BTP application. This is done based on an prepared landscape consisting of the instrumenated application, a SAP Build Workzone Launchpad service, SAP Cloud Logging ans well as the active data collection in SAP Cloud ALM. Attendees will monitor their clicks in SAP Cloud ALM and SAP Cloud Logging and explore our latest features. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+For the session we already prepared the landscape, you can find further details on the required componens, settings and credentials in the ![chapter](/landscape_information.md) and embedded links. 
 
 ## Exercises
 
