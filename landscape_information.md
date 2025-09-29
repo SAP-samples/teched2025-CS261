@@ -10,15 +10,15 @@ During this Hands-On session a landscape is used that consists of the following 
 
 The following picture shows the architecture from a high-level perspective as well as the interplay of the services: 
 
-![High-Level Landscape Architecture](/exercises/overall_content/landscape_architecture.png)
+[High-Level Landscape Architecture](/exercises/overall_content/landscape_architecture.png)
 
-For this session we already prepared the custom SAP BTP application for the monitoring. You can find all related steps in the following ![additional chapter](/exercises/overall_content/Additional_Information_Instrumentation.md) for you reference. These details are not relevant in order to participate the session and follow the excercises.
+For this session we already prepared the custom SAP BTP application for the monitoring. You can find all related steps in the following [additional chapter](/exercises/overall_content/Additional_Information_Instrumentation.md) for you reference. These details are not relevant in order to participate the session and follow the excercises.
 
 ## Custom SAP BTP Application
 
 We are using the SFlight CAP application in the java based version. You can donwload the application from the following GitHub repository:
 
-![SFlight GitHub Repository](https://github.com/SAP-samples/cap-sflight)
+[SFlight GitHub Repository](https://github.com/SAP-samples/cap-sflight)
 
 ## Logon Details 
 

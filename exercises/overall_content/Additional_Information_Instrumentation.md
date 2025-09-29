@@ -2,7 +2,7 @@
 
 In preparation for this session we instrumented the application and prepared the landscape follwing this flow:
 
-![alt text](instrumentation_flow.png)
+[alt text](instrumentation_flow.png)
 
 ## Prerequisites
 
@@ -17,29 +17,29 @@ In preparation for this session we instrumented the application and prepared the
 
 * Make sure to use the latest versions / keep your apps updated
 
-![Prerequisites [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_415688568#section_415688568) 
+[Prerequisites [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_415688568#section_415688568) 
 
 ## Frontend Data Collection
 
 We embedded our application into SAP Build Workzone Launchpad and switched on the colleciton of statistical data records for the site. 
 
-![Site settings](site_settings.png)
+[Site settings](site_settings.png)
 
 In case you are not using SAP Build Workzone you can instrument a front end receiver into your application. The relevant steps can be found on our Expert Portal:
 
-![Enabling Frontend Data Collection [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_873338493#section_873338493)
+[Enabling Frontend Data Collection [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_873338493#section_873338493)
 
 ## Enabling Backend Data Collection
 
 - To configure the data collection instrumentation for back-end services you only need the respective auto-instrumentation:
-    - ![Autoinstrumentation for Java](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-for-java.html)
-    - ![Autoinstrumentation for Node.js](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-nodejs.html)
+    - [Autoinstrumentation for Java](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-for-java.html)
+    - [Autoinstrumentation for Node.js](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-nodejs.html)
 - SAP Java Build Pack Setup (without or with Cloud Logging)
 
-![SAP Java Build Pack Setup](SAPJavaBuildPackSetup.png)
+[SAP Java Build Pack Setup](SAPJavaBuildPackSetup.png)
 
 Further information:
-![Enabling Backend Data Collection [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_1199289189_c)
+[Enabling Backend Data Collection [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_1199289189_c)
 
 ## Authentication
 
@@ -48,20 +48,20 @@ Further information:
     - Bind to Destination Service
 - Add the below lines to mta.yaml
 
-![Authentification in mta.yaml](authentication_mtayaml.png)
+[Authentification in mta.yaml](authentication_mtayaml.png)
 
 ## Configure Destination at the Subaccount
 
 - Create a destination configuration using Destination Service for persisting the base URL and retrieving it
 
-![destination](destination.png)
+[destination](destination.png)
 
 - The Destination must be named 'CALM_datacollector' and created at the provider subaccount level
 
 - SAP Cloud ALM data push endpoints will be formed dynamically by retrieving the base URL from the Destination.
 
 Further information:
-![Configure Destination at the Subaccount [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_1763544621)
+[Configure Destination at the Subaccount [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_1763544621)
 
 ## Activate the Use Case
 
@@ -77,7 +77,7 @@ After you have done the instrumentation as described above, you may do the final
 
 - Configuration of Cloud Logging Instance: [SAP Help Portal](https://help.sap.com/docs/cloud-logging/cloud-logging/ingest-via-opentelemetry-api-endpoint?version=Cloud)
 - Service binding to either dedicated cloud-logging service instance (screenshot below) or to a user-provided service (tagged with label “Cloud Logging”)
-![SAP Cloud Logging Service Binding](service_binding.png) 
+[SAP Cloud Logging Service Binding](service_binding.png) 
 
 # Additional Hints
 
@@ -85,7 +85,7 @@ After you have done the instrumentation as described above, you may do the final
 
 By default UI5 action names are rather technical, e.g.
 
-![default requests](default_requests.png)
+[default requests](default_requests.png)
 
 But developers can map technical names to human readable names using the FESRHelper:
 
@@ -97,5 +97,5 @@ const kpiTag = Element.getElementById("sap.fe.cap.travel_analytics::BookingsList
 FESRHelper.setSemanticStepname(kpiTag, "press", "KPI Tag"); // max. 20 characters
 ```
 
-![before and after](before_after.png)
+[before and after](before_after.png)
 
