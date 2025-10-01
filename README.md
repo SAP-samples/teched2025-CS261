@@ -34,6 +34,7 @@ We already prepared the landscape for the session. You can find further details 
 - [Integration and Exception Monitoring](exercises/ex2/)
     - [Familiarize yourself with Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Base.md)
     - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Exercises.md)
+        - [2.1 Adjust Time Window and explore exceptions raised for other traces (Guided Excercise)](/exercises/ex2/2_ExceptionMonitoring_Exercises.md#21-adjust-time-window-and-explore-exceptions-raised-for-other-traces-guided-excercise)
     - [Navigate to SAP Cloud Logging](exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
 
 - [Real User Monitoring](exercises/ex3/)
