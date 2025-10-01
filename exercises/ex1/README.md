@@ -1,8 +1,8 @@
 # Health Monitoring
 
->> Information Health Monitoring
+The Health Monitoring application allows you to check the health of your monitored cloud service and technical systems from an application and customer perspective.
 
->> Further reading (for later) e.g. Expert Portal / SAP Help Portal
+Further information can be found on Expert Portal: [Health Monitoring](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/health-monitoring.html)
 
 
 ## Let's get started
