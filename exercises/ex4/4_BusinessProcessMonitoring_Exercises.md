@@ -85,7 +85,7 @@ Select 'Destination City' is 'Hamburg'
 
 **Additional Links**\
 [Business process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)\
-[Session Overview](/README.md#overview)
+[Return to Session Overview](/README.md#overview)
 
 **** link to Thank you page & feedback?
 
