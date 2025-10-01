@@ -80,7 +80,7 @@ Select 'Destination City' is 'Hamburg'
 
 ...
 
-## 4.5 Explore Guided Tours (Guided Exercise)
+## 4.6 Explore Guided Tours (Guided Exercise)
 
 
 **Additional Links**\

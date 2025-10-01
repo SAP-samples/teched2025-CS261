@@ -47,12 +47,12 @@ We already prepared the landscape for the session. You can find further details 
 - [Business Process Monitoring](exercises/ex4/)
     - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Base.md)
     - [Exercise 4 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
-        - [4.1 Create your Custom KPI (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
-        - [4.2 Check Data Collection (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
-        - [4.3 Create an Event to be alerted (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
-        - [4.4 Add an Event with a filter (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
-        - [4.5 Adjust Graph and work with Views (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
-        - [4.5 Explore Guided Tours (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.1 Create your Custom KPI (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#41-create-your-custom-kpi-guided-exercise)
+        - [4.2 Check Data Collection (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#42-check-data-collection-guided-exercise)
+        - [4.3 Create an Event to be alerted (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#43-create-an-event-to-be-alerted-guided-exercise)
+        - [4.4 Add an Event with a filter (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#44-add-an-event-with-a-filter-guided-exercise)
+        - [4.5 Adjust Graph and work with Views (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#45-adjust-graph-and-work-with-views-guided-exercise)
+        - [4.6 Explore Guided Tours (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#46-explore-guided-tours-guided-exercise)
 
 **IMPORTANT**
 
