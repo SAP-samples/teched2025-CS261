@@ -1,15 +1,15 @@
 # Real User Monitoring Exercises
 
-## 2.1 Front End Analysis
+## 3.1 Front End Analysis
 Figure out which Front Ends are used most often. Have a look on Operations Systems and Web Browser
 
-## 2.2 Check out Related Links
+## 3.2 Check out Related Links
 Explore the Related Links area and check out the links provided
 
-## 2.3 Timeout Error Root Cause Analysis
+## 3.3 Timeout Error Root Cause Analysis
 Analyze the time out issue being shown by the instructor and figure out the root cause
 
-## 2.4 Creating a Custom Page (Guided Excercise)
+## 3.4 Creating a Custom Page (Guided Excercise)
 - Click on the "Add Custom Page" button at the bottom of Page List 
 ![RUM Add Custom Page](images/RUM_AddCustomPage.png)
 
