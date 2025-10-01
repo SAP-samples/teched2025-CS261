@@ -47,7 +47,6 @@ We already prepared the landscape for the session. You can find further details 
 - [Business Process Monitoring](exercises/ex4/)
     - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Base.md)
     - [Exercise 4 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
-    - [Navigate to SAP Cloud Logging](exercises/ex4/4_BusinessProcessMonitoring_CloudLogging.md)    
 
 **IMPORTANT**
 
