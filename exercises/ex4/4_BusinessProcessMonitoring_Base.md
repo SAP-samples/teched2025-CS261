@@ -17,7 +17,6 @@
 ![BPMon Apply Scope](images/BPMon_ScopeApplied.png)
 
 - **Result**: Based on the selected scope the relevant data in KPIs is shown. In the Overview Area you can see predelivered processes as well as the Custom KPI process.
-
 ![BPMon Home](images/BPMon_Home.png)
 
 ## Navigation within KPIs based on Custom KPI
