@@ -1,13 +1,13 @@
 # Business Process Monitoring Exercises
 
-Disclaimer: These tasks contain the relevant steps - the relevant solution are embedded.
+Disclaimer: These tasks contain the relevant steps - the relevant solutions are embedded.
 
-## 4.1 Create your Custom KPI (Guided Excercise)
+## 4.1 Create your Custom KPI (Guided Exercise)
 
-- Open 'Configuration' section, Navigate to 'KPI Management' and Click on 'Configure KPI' button
+- Open 'Configuration' section, navigate to 'KPI Management', and Click on 'Configure KPI' button
 ![BPMon KPI Management](images/BPMon_CustomKPINav.png)
 
-- Click on the 'Create Custom KPI' button placed on the toolbar of KPIs table
+- Click on the 'Create Custom KPI' button placed on the toolbar of the KPIs table
 ![BPMon Add Custom KPI](images/BPMon_AddCustomKPI.png)
 
 - Configure your Custom KPI. Fill all Mandatory fields
@@ -31,14 +31,14 @@ Disclaimer: These tasks contain the relevant steps - the relevant solution are e
 ![BPMon KPI Listed](images/BPMon_KPIListed.png)
 
 
-## 4.2 Check Data Collection (Guided Excercise)
+## 4.2 Check Data Collection (Guided Exercise)
 - Contact instructors to trigger Data Collection.
-- Open 'Configuration' section, Navigate to 'KPI Management'. Check for the Collection Status of the KPI
+- Open 'Configuration' section, navigate to 'KPI Management'. Check the Collection Status of the KPI
 ![BPMon Custom KPI Data Collection](images/BPMon_DataCollectionStatus.png)
 
 
-## 4.3 Create an Event to be alerted (Guided Excercise)
-In order to get Alerted based on certain conditions, an Event needs to be configured
+## 4.3 Create an Event to be alerted (Guided Exercise)
+In order to get alerted based on certain conditions, an Event needs to be configured
 
 - Navigate to the KPI created in the previous section
 ![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
@@ -46,27 +46,27 @@ In order to get Alerted based on certain conditions, an Event needs to be config
 - Click on the KPI Name to configure the KPI
 ![BPMon Custom KPI](images/BPMon_CustomKPI.png)
 
-- Navigate to 'Events' section and Click on 'Add' button
+- Navigate to the 'Events' section and click on the 'Add' button
 ![BPMon Add Event](images/BPMon_AddEvent.png)
 
 - Fill the mandatory fields. \
 Choose threshold values for Warning and Critical alert \
-In 'Event Actions'section, Switch On 'Create Alert' \
+In the 'Event Actions'section, Switch On 'Create Alert' \
 Save the event
 ![BPMon KPI Event](images/BPMon_KPIEvent.png)
 
-## 4.4 Add an Event with a filter (Guided Excercise)
+## 4.4 Add an Event with a filter (Guided Exercise)
 - Navigate to the KPI created in the previous section
 ![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
 
 - Click on the KPI Name to configure the KPI
 ![BPMon Custom KPI](images/BPMon_CustomKPILink.png)
 
-- Navigate to 'Events' section and Click on 'Add' button
+- Navigate to 'the Events' section and click on the 'Add' button
 ![BPMon Add Event](images/BPMon_AddEvent.png)
 
 - Fill the mandatory fields. \
-Choose threshold values for Warning and Critical alert 
+Choose threshold values for the Warning and Critical alerts 
 
 - Click on 'Add' in the filters section \
 Select 'Destination City' is 'Hamburg'
@@ -76,11 +76,11 @@ Select 'Destination City' is 'Hamburg'
 ![BPMon Event Value Help](images/BPMOn_EventValueHelp.png)
 
 
-## 4.5 Adjust Graph and work with Views (Guided Excercise)
+## 4.5 Adjust Graph and work with Views (Guided Exercise)
 
 ...
 
-## 4.5 Explore Guided Tours (Guided Excercise)
+## 4.5 Explore Guided Tours (Guided Exercise)
 
 
 **Additional Links**\
