@@ -2,7 +2,7 @@
 
 Disclaimer: These tasks contain the relevant steps - the relevant solution are embedded.
 
-## 1.1 Create your Custom KPI (Guided Excercise)
+## 4.1 Create your Custom KPI (Guided Excercise)
 
 - Open 'Configuration' section, Navigate to 'KPI Management' and Click on 'Configure KPI' button
 ![BPMon KPI Management](images/BPMon_CustomKPINav.png)
@@ -31,13 +31,13 @@ Disclaimer: These tasks contain the relevant steps - the relevant solution are e
 ![BPMon KPI Listed](images/BPMon_KPIListed.png)
 
 
-## 1.2 Check Data Collection (Guided Excercise)
+## 4.2 Check Data Collection (Guided Excercise)
 - Contact instructors to trigger Data Collection.
 - Open 'Configuration' section, Navigate to 'KPI Management'. Check for the Collection Status of the KPI
 ![BPMon Custom KPI Data Collection](images/BPMon_DataCollectionStatus.png)
 
 
-## 1.3 Create an Event to be alerted (Guided Excercise)
+## 4.3 Create an Event to be alerted (Guided Excercise)
 In order to get Alerted based on certain conditions, an Event needs to be configured
 
 - Navigate to the KPI created in the previous section
@@ -55,7 +55,7 @@ In 'Event Actions'section, Switch On 'Create Alert' \
 Save the event
 ![BPMon KPI Event](images/BPMon_KPIEvent.png)
 
-## 1.4 Add an Event with a filter (Guided Excercise)
+## 4.4 Add an Event with a filter (Guided Excercise)
 - Navigate to the KPI created in the previous section
 ![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
 
@@ -76,11 +76,11 @@ Select 'Destination City' is 'Hamburg'
 ![BPMon Event Value Help](images/BPMOn_EventValueHelp.png)
 
 
-## 1.5 Adjust Graph and work with Views (Guided Excercise)
+## 4.5 Adjust Graph and work with Views (Guided Excercise)
 
 ...
 
-## 1.5 Explore Guided Tours (Guided Excercise)
+## 4.5 Explore Guided Tours (Guided Excercise)
 
 
 **Additional Links**\
