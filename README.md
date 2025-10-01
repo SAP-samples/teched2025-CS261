@@ -47,12 +47,12 @@ We already prepared the landscape for the session. You can find further details 
 - [Business Process Monitoring](exercises/ex4/)
     - [Familiarize yourself with Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Base.md)
     - [Exercise 4 - Using Business Process Monitoring](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md)
-        - [4.1 Create your Custom KPI (Guided Exercise)](
-        - [4.2 Check Data Collection (Guided Exercise)](
-        - [4.3 Create an Event to be alerted (Guided Exercise)](
-        - [4.4 Add an Event with a filter (Guided Exercise)](
-        - [4.5 Adjust Graph and work with Views (Guided Exercise)](
-        - [4.5 Explore Guided Tours (Guided Exercise)](
+        - [4.1 Create your Custom KPI (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.2 Check Data Collection (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.3 Create an Event to be alerted (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.4 Add an Event with a filter (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.5 Adjust Graph and work with Views (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
+        - [4.5 Explore Guided Tours (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#
 
 **IMPORTANT**
 
