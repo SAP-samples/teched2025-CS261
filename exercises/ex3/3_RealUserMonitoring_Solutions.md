@@ -39,7 +39,7 @@
 ![RUM Navigation Links](images/RUMLinks.png)
 
 - Trace details in SAP Cloud Logging
-![Cloud Logging](images/RUM_CloudLogging_ex.png)
+![Cloud Logging](images/RUM_CloudLogging_Result.png)
 
 - Explore spans to learn more about the request content
 ![Cloud Logging Span](images/RUM_CL_Span.png)

@@ -28,8 +28,6 @@
 ![Metric Cloud Logging](images/HM_CloudLogging.png)
 
 
-
-
 - Adjust Time Window\
 ![Metric Cloud Logging Filter](images/HM_CloudLogging_Filter.png)
 
