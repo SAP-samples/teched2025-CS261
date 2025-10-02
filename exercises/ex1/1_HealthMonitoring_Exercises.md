@@ -35,8 +35,6 @@ The default view contains data collected during the last 15 Minutes, adjust the 
 ## 1.9 Placeholder - SAP HANA Cloud Monitoring Excercise
 ** Scope Selector **
 ** heartbeart **
-** NK **
-....
 
 **Next Step**
 [Refer to the Solutions](/exercises/ex1/1_HealthMonitoring_Solutions.md)
