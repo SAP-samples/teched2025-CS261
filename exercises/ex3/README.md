@@ -7,4 +7,7 @@ The basic concept is to get all user interactions and relevant server requests c
 Real User Monitoring shall help IT and Business users understand how often applications are executed and the response times for end users.
 
 
+Further information can be found on Expert Portal: [Real User Monitoring](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/real-user-monitoring.html)
+
+Continue to - [Real User Monitoring](../ex3/3_RealUserMonitoring_Base.md)
 
