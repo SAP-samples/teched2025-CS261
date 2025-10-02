@@ -34,10 +34,10 @@ Overview area, based on your selection.
 ![IEM Home Exceptions](images/IEM_Home_Exceptions_Link.png)
 
 - **Result**: Exception Overview 
-![IEM Exception Overview](images/IEM_Exceptions_Overview.png)
+![IEM Exception Overview](images/IEM_Exceptions.png)
 
 - Click on individual Exceptions to explore details
-![IEM Exception](images/IEM_Exception.png)
+![IEM Exception](images/IEM_Status_Open.png)
 
 - Collection Context
 ![IEM Exception Details](images/IEM_Exception_CollectionContext.png)
@@ -105,17 +105,17 @@ guided through an exception-based context.
 ## Raise an exception in the custom application
 
 - Open the Launchpad
-> Screenshot: Launchpad showing custom apps
+![Custom Apps Home](images/Custom_Apps_Home.png)
 
 - Navigate to "Process Travels"
-> Screenshot: Process Travels app
+![Process Travel App](images/App_Process_travels.png)
 
 - Select Travel with Travel Status "Accepted" and try to "Reject Travel".
   (not allowed as per application logic)
-> Screenshot: Travel with Status 'Accepted' selected and "reject travel" button focused
+![Travel Selected](images/Travel_Selected.png)
 
 - **Result**
-> Error popup showing Invalid travel status
+![Error](images/Action_Error.png)
 
 
 **Next Step**\
