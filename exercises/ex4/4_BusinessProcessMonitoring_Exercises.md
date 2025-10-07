@@ -86,11 +86,7 @@ Select 'Destination City' is 'Hamburg'
 ![BPMon Event Value Help](images/BPMOn_EventValueHelp.png)
 
 
-## 4.5 Adjust Graph and work with Views (Guided Exercise)
-
-...
-
-## 4.6 Explore Guided Tours (Guided Exercise)
+## 4.5 Explore Guided Tours (Guided Exercise)
 
 
 **Additional Links**\
