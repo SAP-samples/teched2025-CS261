@@ -99,14 +99,12 @@ Select 'Destination City' is 'Hamburg'
 - Click on 'Guided Tours' button navigation panel
 ![BPMon Guided Tours](images/BPMon_GuidedTours.png)
 
-- Click on 'Setting Up Custom KPIs
-![alt text](images/Screenshot_2025-10-07_17.31.01.png)
+- Click on 'Setting Up Custom KPIs' to start the Guided Tour
+
+     ![alt text](images/Screenshot_2025-10-07_17.31.01.png)
 
 - **Result**
 ![BPMon Guided Tour](images/BPMon_GuidedTour.png)
-![BPMon Guided Tour Dialog](images/BPMon_GuidedTour_Dialog.png)
-
-
 
 **Additional Links**\
 [Business process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)\
