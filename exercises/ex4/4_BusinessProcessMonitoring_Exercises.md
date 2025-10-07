@@ -36,6 +36,9 @@ Disclaimer: These tasks contain the relevant steps - the relevant solutions are 
 - Open 'Configuration' section, navigate to 'KPI Management'. Check the Collection Status of the KPI
 ![BPMon Custom KPI Data Collection](images/BPMon_DataCollectionStatus.png)
 
+** Show Data Collection being switched on in KPI Management > KPI Management > Click on KPI > Data Collection Tab (check if the data collection is switched on, if not switch the data collection on for you KPI)
+
+** Inform the instructor so that the data collection run is triggered
 
 ## 4.3 Create an Event to be alerted (Guided Exercise)
 In order to get alerted based on certain conditions, an Event needs to be configured
@@ -55,7 +58,9 @@ In the 'Event Actions'section, Switch On 'Create Alert' \
 Save the event
 ![BPMon KPI Event](images/BPMon_KPIEvent.png)
 
-## 4.4 Add an Event with a filter (Guided Exercise)
+** lower thresholds  1, 2 **
+
+## 4.4 [Optional] Add an Event with a filter (Guided Exercise)
 - Navigate to the KPI created in the previous section
 ![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
 
