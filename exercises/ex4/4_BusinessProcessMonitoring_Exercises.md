@@ -98,7 +98,6 @@ Select 'Destination City' is 'Hamburg'
 
 - Click on 'Guided Tours' button navigation panel
 ![BPMon Guided Tours](images/BPMon_GuidedTours.png)
-![alt text](images/Screenshot_2025-10-07_17.29.32.png)
 
 - Click on 'Setting Up Custom KPIs
 ![alt text](images/Screenshot_2025-10-07_17.31.01.png)
