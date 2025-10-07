@@ -32,13 +32,16 @@ Disclaimer: These tasks contain the relevant steps - the relevant solutions are 
 
 
 ## 4.2 Check Data Collection (Guided Exercise)
-- Contact instructors to trigger Data Collection.
-- Open 'Configuration' section, navigate to 'KPI Management'. Check the Collection Status of the KPI
-![BPMon Custom KPI Data Collection](images/BPMon_DataCollectionStatus.png)
+- Open 'Configuration' section, navigate to 'KPI Management'. Click on the KPI Name.
+![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
 
-** Show Data Collection being switched on in KPI Management > KPI Management > Click on KPI > Data Collection Tab (check if the data collection is switched on, if not switch the data collection on for you KPI)
+- Click on the KPI Name to check Data Collection status
+![BPMon Custom KPI](images/BPMon_CustomKPILink.png)
 
-** Inform the instructor so that the data collection run is triggered after you finish 4.3 **
+- Navigate to Data Collection tab and make sure that the 'Data Collection' switch is On. If not, please Switch it On
+![BPMon Custom KPI Data Collection](images/BPMon_CustomKPI_DataCollection.png)
+
+- **Note** After the completion of Exercise 4.3, please request the instructors to trigger Data Collection
 
 ## 4.3 Create an Event to be alerted (Guided Exercise)
 In order to get alerted based on certain conditions, an Event needs to be configured
@@ -58,12 +61,14 @@ In the 'Event Actions'section, Switch On 'Create Alert' \
 Save the event
 ![BPMon KPI Event](images/BPMon_KPIEvent.png)
 
-** lower thresholds  1, 2 **
-** Inform the instructor so that the data collection run is triggered **
+- **On reaching this step, please inform the instructor so that they can trigger a data collection for the newly created event for custom KPI**
 
-** This how the KPI looks once the data is received for the KPI **
+- Once data collection is successful, the custom KPI can be checked as following
+![BPMon Custom KPI Data Collection](images/BPMon_CustomKPI_Data.png)
 
-** Pictures: Overview Page, KPI Details
+- Click on the KPI Card to view the details
+![BPMon Custom KPI Data Details](images/BPMon_Custom_KPI_DataDetails.png)
+
 
 ## 4.4 [Optional] Add an Event with a filter (Guided Exercise)
 - Navigate to the KPI created in the previous section
@@ -88,11 +93,26 @@ Select 'Destination City' is 'Hamburg'
 
 ## 4.5 Explore Guided Tours (Guided Exercise)
 
+- Click on 'Help' button in the title bar
+![BPMon Help](images/BPMon_Help.png)
+
+- Click on 'Guided Tours' button navigation panel
+![BPMon Guided Tours](images/BPMon_GuidedTours.png)
+![alt text](images/Screenshot_2025-10-07_17.29.32.png)
+
+- Click on 'Setting Up Custom KPIs
+![alt text](images/Screenshot_2025-10-07_17.31.01.png)
+
+- **Result**
+![BPMon Guided Tour](images/BPMon_GuidedTour.png)
+![BPMon Guided Tour Dialog](images/BPMon_GuidedTour_Dialog.png)
+
+
 
 **Additional Links**\
 [Business process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)\
 [Return to Session Overview](/README.md#overview)
 
-**** link to Thank you page & feedback?
+[Further Resources and Thank You](/exercises/overall_content/ConclusionAndResources.md)
 
 
