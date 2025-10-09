@@ -12,20 +12,14 @@ You showed up, rolled up your sleeves, and turned ideas into working bits and by
 - Real User Monitoring
 - Business Process Monitoring
 
-
-## Session Resources 📚
-
-- Slides: 
-- Recording: 
-
 ## Further Readings 🧭
 
-
+Check out our Expert Portal for further reading:
+[SAP Cloud ALM for Operations - Expert Portal](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal.html)
 
 ## Need Help? 🤝
 
-- Email: [team@example.com](mailto:team@example.com)  
-- Contact person: Your Name — Solutions/Developer Advocate  
+- Email: [cloudalm@sap.com](mailto:cloudalm@sap.com)  
 
 ## We Want Your Feedback 🗣️
 
@@ -34,10 +28,8 @@ Tell us what worked, what didn’t, and what you’d love to see next time:
 
 ## Shout‑Outs 🙏
 
-Huge thanks to our facilitators, co-hosts, and the partner crew who made this session possible.  
+Huge thanks to our facilitators, co-hosts, and the involved colleagues who made this session possible.  
 And to you—for asking great questions, testing limits, and making it fun!
-
-
 
 ## See You Soon 👋
 
