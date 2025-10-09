@@ -19,6 +19,7 @@ Check out our Expert Portal for further reading:
 
 ## Need Help? 🤝
 
+Contact our general inbox to reach out us:
 - Email: [cloudalm@sap.com](mailto:cloudalm@sap.com)  
 
 ## We Want Your Feedback 🗣️
