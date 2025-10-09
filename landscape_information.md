@@ -22,11 +22,11 @@ We are using the SFlight CAP application in the Java-based version. You can down
 
 ## Logon Details 
 
-For login to the applications you can use the user ID and password that is provided by the instructors.
+For login to the applications, you can use the user ID and password that is provided by the instructors.
 
 ![Logon Details](/exercises/overall_content/Logon_Details.png)
 
-If asked for sign in with, select "tdct3ched1.accounts.ondemand.com" during the authentication process.
+If asked for a sign-in, select "tdct3ched1.accounts.ondemand.com" during the authentication process.
 
 ![Sign In](/exercises/overall_content/Sign_In.png)
 
