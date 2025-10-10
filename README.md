@@ -54,6 +54,9 @@ We already prepared the landscape for the session. You can find further details 
         - [4.4 Add an Event with a filter (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#44-add-an-event-with-a-filter-guided-exercise)
         - [4.5 Explore Guided Tours (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#45-explore-guided-tours-guided-exercise)
 
+And Finally: 
+    [Further Resources and Thank You](/exercises/overall_content/ConclusionAndResources.md)
+
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
