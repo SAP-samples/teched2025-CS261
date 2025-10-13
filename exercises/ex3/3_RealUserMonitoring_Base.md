@@ -26,7 +26,7 @@ different platforms with a unified user experience using a common look-and-feel 
 
 The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective
 
-- Click on Request name "sap,fe.travel_analytics"
+- Click on Request name "sap.fe.travel_analytics"
 ![RUM Request Actions](images/RUM_RequestActions.png)
 
 - Click on "KPI Tag"
