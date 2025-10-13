@@ -54,5 +54,5 @@ Remark: During the exercises, you will be guided to the SAP Cloud Logging instan
 
 ### Let's get started
 
-Continue to - [Familiarize yourself with Health Monitoring](/ex1/1_HealthMonitoring_Base.md)
+Continue to - [Familiarize yourself with Health Monitoring](/exercises/ex1/1_HealthMonitoring_Base.md)
 
