@@ -13,6 +13,7 @@
 
 - **Result**: Show detailed trace in Cloud Logging
 ![RUM Cloud Logging Result](images/RUM_CloudLogging_Result.png)
+Hint: In case your traceid cannot be opened - select a previous execution or check back in a few minutes. 
 
 **Next Step**\
 [Continue to Exercises](/exercises/ex3/3_RealUserMonitoring_Exercises.md)
