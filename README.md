@@ -34,7 +34,7 @@ We already prepared the landscape for the session. You can find further details 
 - [Integration and Exception Monitoring](exercises/ex2/)
     - [Familiarize yourself with Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Base.md)
     - [Exercise 2 - Using Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Exercises.md)
-        - [2.1 Adjust Time Window and explore exceptions raised for other traces (Guided Excercise)](/exercises/ex2/2_ExceptionMonitoring_Exercises.md#21-adjust-time-window-and-explore-exceptions-raised-for-other-traces-guided-excercise)
+        - [2.1 Adjust Time Window and explore exceptions raised for other traces (Guided Exercise)](/exercises/ex2/2_ExceptionMonitoring_Exercises.md#21-adjust-time-window-and-explore-exceptions-raised-for-other-traces-guided-excercise)
     - [Navigate to SAP Cloud Logging](exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
 
 - [Real User Monitoring](exercises/ex3/)
@@ -57,10 +57,6 @@ We already prepared the landscape for the session. You can find further details 
 And Finally: 
     [Further Resources and Thank You](/exercises/overall_content/ConclusionAndResources.md)
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
@@ -72,4 +68,4 @@ Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
-Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
