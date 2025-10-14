@@ -4,7 +4,7 @@
 
 ## 1.1 Adjust Time Frame
 
-Figure out further details on the "Memory: Eden Space (Java)" evolution during the last days
+Figure out further details on the "Memory: Eden Space (Java)" evolution during the last days, starting based on the History for the metric. 
 
 ## 1.2 Adjust Resolution
 
@@ -29,10 +29,6 @@ Figure out details on what was recently released in the context of the applicati
 ## 1.7 In App Help Use Spots
 
 The In-App help offers further information in various places within the application that can help you when using it. Make use of the spots provided within the application
-
-## 1.8 Adjust Time Window and explore exceptions raised for other traces
-
-The default view contains data collected during the last 15 Minutes, adjust the Time Windows to gain insights on the memory and see what other exceptions have been raised in the in other traces collected for the resource
 
 **Next Step** \
 [Refer to the Solutions](/exercises/ex1/1_HealthMonitoring_Solutions.md) \
