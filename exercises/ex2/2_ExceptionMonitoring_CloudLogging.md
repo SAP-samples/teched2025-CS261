@@ -1,5 +1,6 @@
 # Navigate to SAP Cloud Logging
 Prerequisites: Navigate from Exception Overview to a certain exception (see chapter Explore Exceptions)
+**** add some texts for navigation ***** TCS
 
 -  Click on Exception Message (link: “Invalid travel Status (must be ‘Open’)”)
 ![IEM Cloud Logging Navigation](images/IEM_NavToCloudLogging.png)
