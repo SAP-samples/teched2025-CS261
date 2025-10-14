@@ -40,7 +40,7 @@ We already prepared the landscape for the session. You can find further details 
 - [Real User Monitoring](exercises/ex3/)
     - [Familiarize yourself with Real User Monitoring](exercises/ex3/3_RealUserMonitoring_Base.md)
     - [Exercise 3 - Using Real User Monitoring](exercises/ex3/3_RealUserMonitoring_Exercises.md)
-        - [3.1 Front End Analysis](excercises/ex3/3_RealUserMonitoring_Exercises.md#31-front-end-analysis)
+        - [3.1 Front End Analysis](exercises/ex3/3_RealUserMonitoring_Exercises.md#31-front-end-analysis)      
         - [3.2 Check out Related Links](exercises/ex3/3_RealUserMonitoring_Exercises.md#32-check-out-related-links)
         - [3.3 Timeout Error Root Cause Analysis (Guided Exercise)](exercises/ex3/3_RealUserMonitoring_Exercises.md#33-timeout-error-root-cause-analysis)
     - [Navigate to SAP Cloud Logging](exercises/ex3/3_RealUserMonitoring_CloudLogging.md)
