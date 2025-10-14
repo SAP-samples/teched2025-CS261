@@ -29,7 +29,7 @@ We already prepared the landscape for the session. You can find further details 
         - [1.6 Explore What’s New](exercises/ex1/1_HealthMonitoring_Exercises.md#16-explore-whats-new)
         - [1.7 In App Help Use Spots](exercises/ex1/1_HealthMonitoring_Exercises.md#17-in-app-help-use-spots)
     - [Navigate to SAP Cloud Logging](exercises/ex1/1_HealthMonitoring_CloudLogging.md)
-        - [1.8 Adjust Time Window and explore exceptions raised for other traces](exercises/ex1/1_HealthMonitoring_Exercises.md#18-adjust-time-window-and-explore-exceptions-raised-for-other-traces)
+
 
 - [Integration and Exception Monitoring](exercises/ex2/)
     - [Familiarize yourself with Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Base.md)
