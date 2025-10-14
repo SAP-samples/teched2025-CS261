@@ -3,7 +3,8 @@
 - Navigate to request details [Refer](3_RealUserMonitoring_Base.md#explore-requests) 
 ![RUM Request Details](images/RUM_CloudLogging.png)
 
-- Open Navigation Links for HTTPS request “sflight-srv”
+- Open Navigation Links for HTTPS request “sflight-srv”.
+  Hint: The context menu is avaialble once the box is selected (active focus)
 ![Navigation Links](images/RUM_CL_Link.png)
 
 - Navigation Links
