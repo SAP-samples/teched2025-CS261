@@ -17,7 +17,7 @@ Analyze the time out issue being shown by the instructor and figure out the root
 - Select Views and Drag it to the Page
 ![RUM Custom Views](images/RUM_Select_Views.png)
 
-- Provide and Name and an Icon for the Page
+- Provide and Name and an Icon for the Page in the "Page Management" panel
 ![RUM Name and Icon for the Custom Page](images/Custom_Page_NameIcon.png)
 
 - Save the Page

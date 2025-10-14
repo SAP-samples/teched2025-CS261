@@ -4,6 +4,8 @@ Integration and Exception Monitoring provide transparency for data exchange proc
 supports monitoring for peer-to-peer interfaces and interfaces using orchestration platforms and provides a
 unified user experience for all interface types using a common look-and-feel and handling pattern.
 
+[Link to SAP Cloud ALM tenant](https://cs261-n5i2x9xc.eu10-004.alm.cloud.sap/launchpad#Shell-home)
+
 ![CALM Home IEM](images/CALM_Home_IEM.png)
 
 
@@ -12,9 +14,8 @@ unified user experience for all interface types using a common look-and-feel and
 - Open the Scope Selector
 ![Scope Selector Opened](images/IEM_Scope_Selector.png)
 
-- Change the Filter for Managed Components, select “Service” and press “Go”
+- Change the Filter for Managed Components, select “Service” and remove "Service Status" Filter press “Go”
 ![IEM Scope Services](images/IEM_Scope_Services.png)
-***** Select all Service Status ****** TCS
 
 - Select “SAPTechEd-HandsOn-CF”, Service Type “SAP BTP, Cloud Foundry environment”
 ![IEM Scope Selector Results](images/IEM_Scope_Result.png)

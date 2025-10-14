@@ -1,5 +1,7 @@
 # Health Monitoring Exercises
 
+[Link to SAP Cloud ALM tenant](https://cs261-n5i2x9xc.eu10-004.alm.cloud.sap/launchpad#Shell-home)
+
 ## 1.1 Adjust Time Frame
 
 Figure out further details on the "Memory: Eden Space (Java)" evolution during the last days
