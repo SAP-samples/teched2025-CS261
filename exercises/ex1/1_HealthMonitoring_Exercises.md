@@ -1,4 +1,4 @@
-# Health Monitoring Excercises
+# Health Monitoring Exercises
 
 ## 1.1 Adjust Time Frame
 
