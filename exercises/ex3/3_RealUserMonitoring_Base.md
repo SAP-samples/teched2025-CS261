@@ -12,7 +12,7 @@ different platforms with a unified user experience using a common look-and-feel 
 - Open the Scope Selector
 ![RUM Scope Selector](images/RUM_ScopeSelector.png)
 
-- Select both Services: Service "|service name|" and Apply your selection
+- Select both Services: Service "SAPTechEd-HandsOn-WZ", "SAPTechEd-HandsOn-CF" and Apply your selection
 ![RUM Scope Selected](images/RUM_ScopeSelected.png)
 
 - **Result**: Based on your selection, you will see a card for services in the Overview area
