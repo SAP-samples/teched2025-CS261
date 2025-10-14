@@ -1,5 +1,8 @@
 # Real User Monitoring Exercises
 
+**Info:** There are two types of exercises: "Use what you learnt", where you can apply what you previously learnt, and guided exercises. 
+The solution for the "Use what you learnt" exercise is linked at the end of the page. 
+
 ## 3.1 Front End Analysis
 Figure out which Front Ends are used most often. Have a look on Operations Systems and Web Browser
 
