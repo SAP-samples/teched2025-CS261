@@ -105,7 +105,8 @@ guided through an exception-based context.
 
 ## Raise an exception in the custom application
 
-- Open the Launchpad
+- Open the Launchpad 
+[Travel Agency](https://cs261-n5i2x9xc.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=7f5e32cf-5ca9-491b-946f-1ea71063afea#Shell-home)
 ![Custom Apps Home](images/Custom_Apps_Home.png)
 
 - Navigate to "Process Travels"
