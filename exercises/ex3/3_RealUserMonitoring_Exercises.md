@@ -28,7 +28,7 @@ You can see that the newly added Page appears on the Page List and will be avail
 ![RUM Custom Page](images/RUM_Custom_Page.png)
 
 - **Note**\
-Additionally, as an **Admin**, it is also possible to share custom pages with other users
+As an **Admin** - **which you are not** - you can also share custom pages with other users
 ![RUM Share Custom Page](images/RUM_ShareCustomPage.png)
 
 
