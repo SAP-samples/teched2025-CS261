@@ -15,7 +15,7 @@ unified user experience for all interface types using a common look-and-feel and
 - Change the Filter for Managed Components, select “Service” and press “Go”
 ![IEM Scope Services](images/IEM_Scope_Services.png)
 
-- Select “BTP_Subaccount_HandsOn”, Service Type “SAP BTP, Cloud Foundry environment”
+- Select “SAPTechEd-HandsOn-CF”, Service Type “SAP BTP, Cloud Foundry environment”
 ![IEM Scope Selector Results](images/IEM_Scope_Result.png)
 
 - Apply your selection
