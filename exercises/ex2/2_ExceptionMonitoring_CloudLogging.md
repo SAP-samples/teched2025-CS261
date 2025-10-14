@@ -1,6 +1,8 @@
 # Navigate to SAP Cloud Logging
-Prerequisites: Navigate from Exception Overview to a certain exception (see chapter Explore Exceptions)
-**** add some texts for navigation ***** TCS
+Prerequisites: Navigate from Exception Overview to a certain exception (see chapter Explore Exceptions or follow these steps)
+    - Navigate from Home to the details on Exceptions for service "SAPTechEd-HandsOn-CF"
+    - Select category "Java Application Log"
+    - Look for an exception with message starting with "Invalid travel Status" 
 
 -  Click on Exception Message (link: “Invalid travel Status (must be ‘Open’)”)
 ![IEM Cloud Logging Navigation](images/IEM_NavToCloudLogging.png)

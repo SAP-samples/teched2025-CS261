@@ -3,6 +3,9 @@
 The purpose of Real User Monitoring is to provide transparency about the usage (executions) and the
 performance (response times) of user interactions. It supports the monitoring request executions from
 different platforms with a unified user experience using a common look-and-feel and handling pattern.
+
+[Link to SAP Cloud ALM tenant](https://cs261-n5i2x9xc.eu10-004.alm.cloud.sap/launchpad#Shell-home)
+
 ![CALM Home - Real User Monitoring](images/CALM_Home_RUM.png)
 
 ## Scope Selection and Home

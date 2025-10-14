@@ -63,8 +63,10 @@ Save the event
 
 - **On reaching this step, please inform the instructor so that they can trigger a data collection for the newly created event for custom KPI**
 
-- Once data collection is successful, the custom KPI can be checked as following
+- Once data collection is successful, the custom KPI can be checked as following, navigate via "Others" to show all KPIs for the node
 ![BPMon Custom KPI Data Collection](images/BPMon_CustomKPI_Data.png)
+
+![BPMon Custom KPIs Process Node Others](/exercises/ex4/images/BPMon_CustomKPIs_Others.png)
 
 - Click on the KPI Card to view the details
 ![BPMon Custom KPI Data Details](images/BPMon_Custom_KPI_DataDetails.png)
