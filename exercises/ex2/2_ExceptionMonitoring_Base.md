@@ -73,7 +73,7 @@ Overview area, based on your selection.
 
 
 - Navigate to Page Exceptions
-![IEM Exceptions](images/IEM_Exception_Page.png)
+![IEM Exceptions](images/IEM_Exception_Page_Base.png)
 
 - **Additional Information**: You can find further details in Card Information
 ![IEM Card Information](images/IEM_CardDetails.png)
