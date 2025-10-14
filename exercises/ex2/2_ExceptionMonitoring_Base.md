@@ -64,14 +64,14 @@ Overview area, based on your selection.
 ![IEM Tracking](images/IEM_Tracking.png)
 
 - Navigate to “Exceptions”
-  **Info**: The search is search for both Integration as well as Exceptions
+  **Info**: The search is for both Integration as well as Exceptions
 ![IEM Tracking Exception](images/IEM_Tracking_SearchException.png)
 
 - Click on Result (Exception)
 ![Exception Details](images/IEM_ExceptionDetails.png)
 
 
-- Navigate to Page Exception
+- Navigate to Page Exceptions
 ![IEM Exceptions](images/IEM_Exception_Page.png)
 
 - **Additional Information**: You can find further details in Card Information
@@ -80,7 +80,7 @@ Overview area, based on your selection.
 
 ## Alerting
 Alerts and the Alert Inbox page are available in all SAP Cloud ALM for operations areas. As part of this Hands-
-On session, we looked at them in the context of Exception Monitoring. The alert details are specific to the
+In the session, we looked at them in the context of Exception Monitoring. The alert details are specific to the
 respective area you are using. In Health Monitoring, the details are based on metrics, and below, you will be
 guided through an exception-based context.
 **Please do not confirm Alert(s) so that all participants can explore those.**
