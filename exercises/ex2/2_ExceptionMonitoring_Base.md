@@ -118,7 +118,7 @@ guided through an exception-based context.
 
 - **Result**
 ![Error](images/Action_Error.png)
-
+Info: The result is being used in the next chapter as part of the exercises.
 
 **Next Step**\
 [Proceed to Cloud Logging](/exercises/ex2/2_ExceptionMonitoring_CloudLogging.md)
