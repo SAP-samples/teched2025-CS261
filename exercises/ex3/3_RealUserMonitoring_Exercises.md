@@ -9,6 +9,39 @@ Explore the Related Links area and check out the links provided
 ## 3.3 Timeout Error Root Cause Analysis
 Analyze the time out issue being shown by the instructor and figure out the root cause
 
+- Home
+![RUM Home](images/RUM_Home_CustomeTime.png)
+
+- Navigate to Requests (New)
+![RUM Requests(New)](<images/RUM Requests(New).png>)
+
+- Adjust dimensions
+![RUM Requests Dimension](<images/RUM Requests Dimension.png>)
+
+- Select “Request Name”, “Request Type”, and “Action”
+![Dimesion Selection](<images/RUM Dimension Selection.png>)
+
+- Close. The table should be updated according to the selected "Dimensions"
+![Updated Request Dimensions](<images/RUM_Dimension_Updated.png>)
+
+- Select Request with Action “Go button”
+![RUM Request Go Button](<images/RUM Go Button.png>) 
+
+- Execution List
+![RUM Request Executions](images/RUM_Request_Executions.png)
+
+- Select the relevant execution to navigate to the details
+![Execution Details](images/RUM_Execution_Graph.png)
+
+- Open Navigation Options and “Show detailed trace in Cloud Logging”
+![RUM Navigation Links](images/RUMLinks.png)
+
+- Trace details in SAP Cloud Logging
+![Cloud Logging](images/RUM_CloudLogging_Result.png)
+
+- Explore spans to learn more about the request content
+![Cloud Logging Span](images/RUM_CL_Span.png)
+
 ## 3.4 Creating a Custom Page (Guided Excercise)
 - Open the side navigation menu
 - Click on the "Add Custom Page" button at the bottom of Page List 
