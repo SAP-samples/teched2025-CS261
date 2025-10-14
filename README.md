@@ -28,8 +28,6 @@ We already prepared the landscape for the session. You can find further details 
         - [1.5 Add Service to Favorites](exercises/ex1/1_HealthMonitoring_Exercises.md#15-add-service-to-favorites)
         - [1.6 Explore What’s New](exercises/ex1/1_HealthMonitoring_Exercises.md#16-explore-whats-new)
         - [1.7 In App Help Use Spots](exercises/ex1/1_HealthMonitoring_Exercises.md#17-in-app-help-use-spots)
-    - [Navigate to SAP Cloud Logging](exercises/ex1/1_HealthMonitoring_CloudLogging.md)
-
 
 - [Integration and Exception Monitoring](exercises/ex2/)
     - [Familiarize yourself with Integration and Exception Monitoring](exercises/ex2/2_ExceptionMonitoring_Base.md)
