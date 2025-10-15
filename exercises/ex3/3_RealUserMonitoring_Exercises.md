@@ -45,7 +45,7 @@ Analyze the time out issue being shown by the instructor and figure out the root
 - Explore spans to learn more about the request content
 ![Cloud Logging Span](images/RUM_CL_Span.png)
 
-## 3.4 Creating a Custom Page (Guided Excercise)
+## 3.4 Creating a Custom Page (Guided Exercise)
 - Open the side navigation menu
 - Click on the "Add Custom Page" button at the bottom of Page List 
 ![RUM Add Custom Page](images/RUM_AddCustomPage.png)
