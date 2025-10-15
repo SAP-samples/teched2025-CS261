@@ -21,7 +21,7 @@ Disclaimer: These tasks contain the relevant steps - the relevant solutions are 
     - Category: Backlog
     - Service Type: SAP BTP, Cloud Foundry environment 
     - Data Collection Frequency: 15 minutes \
-    - **Fill out the Characteristics section as shown below
+    - Fill out the Characteristics section as shown below
     ![BPMon KPI Settings](images/BPMon_KPI_Settings.png)
 
 - Close the Custom KPI
@@ -50,7 +50,7 @@ In order to get alerted based on certain conditions, an Event needs to be config
 ![BPMon Edit Custom KPI](images/BPMon_EditKPI.png)
 
 - Click on the KPI Name to configure the KPI
-![BPMon Custom KPI](images/BPMon_CustomKPI.png)
+![BPMon Custom KPI](images/BPMon_CustomKPILink.png)
 
 - Navigate to the 'Events' section and click on the 'Add' button
 ![BPMon Add Event](images/BPMon_AddEvent.png)
