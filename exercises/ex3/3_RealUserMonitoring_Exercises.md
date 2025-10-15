@@ -9,7 +9,7 @@ Figure out which Front Ends are used most often. Have a look on Operations Syste
 ## 3.2 Check out Related Links
 Explore the Related Links area and check out the links provided
 
-## 3.3 Timeout Error Root Cause Analysis
+## 3.3 Timeout Error Root Cause Analysis (Guided Exercise)
 Analyze the time out issue being shown by the instructor and figure out the root cause
 
 - Home
