@@ -1,6 +1,6 @@
 # Additional Information
 
-In preparation for this session we instrumented the application and prepared the landscape follwing this flow:
+In preparation for this session, we instrumented the application and prepared the landscape following this flow:
 
 ![alt text](instrumentation_flow.png)
 
@@ -12,8 +12,8 @@ In preparation for this session we instrumented the application and prepared the
         - otel-agent-ext-java: Version 1.5.30
         - calm-crun-client-api-java*: Version 1.5.32 (optional, only required for custom instrumentation)
         - fesr-to-otel-java: Version 2.0.26 (for Spring Boot 3)
-    -  artifactory as repository in pom.xml
-    - Update settings.xml pointing to technical user credentials for the artifactory
+    -  Artifactory as a repository in pom.xml
+    - Update settings.xml, pointing to technical user credentials for the Artifactory
 
 * Make sure to use the latest versions / keep your apps updated
 
@@ -21,17 +21,17 @@ In preparation for this session we instrumented the application and prepared the
 
 ## Frontend Data Collection
 
-We embedded our application into SAP Build Workzone Launchpad and switched on the colleciton of statistical data records for the site. 
+We embedded our application into SAP Build Workzone Launchpad and switched on the site's statistical data record collection. 
 
 ![Site settings](site_settings.png)
 
-In case you are not using SAP Build Workzone you can instrument a front end receiver into your application. The relevant steps can be found on our Expert Portal:
+In case you are not using SAP Build Workzone, you can instrument a front-end receiver into your application. The relevant steps can be found on our Expert Portal:
 
 [Enabling Frontend Data Collection [SAP Cloud ALM Expert Portal - OpenTelemetry@SAP]](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure.html?anchorId=section_873338493#section_873338493)
 
 ## Enabling Backend Data Collection
 
-- To configure the data collection instrumentation for back-end services you only need the respective auto-instrumentation:
+- To configure the data collection instrumentation for back-end services, you only need the respective auto-instrumentation:
     - [Autoinstrumentation for Java](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-for-java.html)
     - [Autoinstrumentation for Node.js](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/data-collection-infrastructure/autoinstrumentation-nodejs.html)
 - SAP Java Build Pack Setup (without or with Cloud Logging)
@@ -43,8 +43,8 @@ Further information:
 
 ## Authentication
 
-- In order to export towards SAP Cloud ALM you have to setup the destination via
-    - OAuth based authentication
+- In order to export towards SAP Cloud ALM, you have to set up the destination via
+    - OAuth-based authentication
     - Bind to Destination Service
 - Add the below lines to mta.yaml
 
@@ -83,11 +83,11 @@ After you have done the instrumentation as described above, you may do the final
 
 # Custom naming of UI5 actions
 
-By default UI5 action names are rather technical, e.g.
+By default, UI5 action names are rather technical, e.g.
 
 ![default requests](default_requests.png)
 
-But developers can map technical names to human readable names using the FESRHelper:
+But developers can map technical names to human-readable names using the FESRHelper:
 
 ```
 import Element from "sap/ui/core/Element";
