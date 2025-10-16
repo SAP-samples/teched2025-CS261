@@ -12,7 +12,7 @@ In preparation for this session, we instrumented the application and prepared th
         - otel-agent-ext-java: Version 1.5.30
         - calm-crun-client-api-java*: Version 1.5.32 (optional, only required for custom instrumentation)
         - fesr-to-otel-java: Version 2.0.26 (for Spring Boot 3)
-    -  Artifactory as a repository in pom.xml
+    - Artifactory as a repository in pom.xml
     - Update settings.xml, pointing to technical user credentials for the Artifactory
 
 * Make sure to use the latest versions / keep your apps updated
