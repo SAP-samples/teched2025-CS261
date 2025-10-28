@@ -75,3 +75,5 @@ As an **Admin** - **which you are not** - you can also share custom pages with o
 **Additional Links**\
 [Real User Monitoring Overview](/exercises/ex3/3_RealUserMonitoring_Base.md)\
 [Session Overview](/README.md#overview)
+
+[SAP Cloud Logging (SAP Help Portal)](https://help.sap.com/docs/SAP_CLOUD_LOGGING)
