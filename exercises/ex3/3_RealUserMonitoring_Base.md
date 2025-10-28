@@ -27,8 +27,18 @@ different platforms with a unified user experience using a common look-and-feel 
 - Home
 ![RUM Home](images/RUM_Home_CustomeTime.png)
 
-- Navigate to Request Type "SAPUI5" in the SAP Build Work Zone, Standard Edition
+- Navigate to Page "Requests"
+![RUM Request Page Navigation](images/RUM_Highlight_RequestPage.png)
+
+- Filter on Request Types "SAPUI5"
+  ![RUM Request Page Filter](images/RUM_Request_Filter.png)
+
+- **Result**: All requests of type "SAPUI5" are shown
 ![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
+
+******** to be deleted *******
+- Navigate to Request Type "SAPUI5" in the SAP Build Work Zone, Standard Edition
+******** to be deleted *******
 
 The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective.
 The page "Requests" is hereby used.
