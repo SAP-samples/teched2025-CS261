@@ -31,7 +31,7 @@ different platforms with a unified user experience using a common look-and-feel 
 ![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
 
 The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective.
-The page "Requests" is herby used.
+The page "Requests" is hereby used.
 
 - Click on Request name "sap.fe.travel_analytics"
 ![RUM Request Actions](images/RUM_RequestActions.png)
