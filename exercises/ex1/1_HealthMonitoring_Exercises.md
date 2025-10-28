@@ -40,3 +40,5 @@ The In-App help offers further information in various places within the applicat
 **Additional Links** \
 [Health Monitoring Overview](/exercises/ex1/1_HealthMonitoring_Base.md) \
 [Session Overview](/README.md#overview)
+
+[SAP Cloud Logging (SAP Help Portal)](https://help.sap.com/docs/SAP_CLOUD_LOGGING)
