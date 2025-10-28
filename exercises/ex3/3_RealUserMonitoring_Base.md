@@ -20,6 +20,10 @@ different platforms with a unified user experience using a common look-and-feel 
 
 - **Info**: The default Time Frame is "Last Hour" - Data is always shown in context of the selected time frame. In the chapter [Time Frame](/exercises/ex2/2_ExceptionMonitoring_Base.md#Time-Frame), you will find example steps to adjust the time frame.
 
+- **Side menu**: Expand the side menu to see all avaialble pages
+
+![RUM All Pages](images/RUM_AllPages.png)
+
 ## Explore Requests 
 - Home
 ![RUM Home](images/RUM_Home_CustomeTime.png)
@@ -27,7 +31,8 @@ different platforms with a unified user experience using a common look-and-feel 
 - Navigate to Request Type "SAPUI5" in the SAP Build Work Zone, Standard Edition
 ![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
 
-The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective
+The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective.
+The page "Requests" is herby used.
 
 - Click on Request name "sap.fe.travel_analytics"
 ![RUM Request Actions](images/RUM_RequestActions.png)
@@ -49,11 +54,6 @@ The next steps are an example to explore the details in the area of the customer
 
 - Click the rows to see details per request
 ![RUM Details Per Request](images/RUM_DetailPerRequest.png)
-
-## (optional) Checkout available pages
-
-![RUM All Pages](images/RUM_AllPages.png)
-
 
 **Next Step**\
 [Proceed to Cloud Logging](/exercises/ex3/3_RealUserMonitoring_CloudLogging.md)
