@@ -11,7 +11,7 @@ Figure out further details on the "Memory: Eden Space (Java)" evolution during t
 
 ## 1.2 Adjust Resolution
 
-Figure out further details on the "Memory: Eden Space (Java)", considering time intervals for 15 minutes
+Figure out further details on the "Memory: Eden Space (Java)", considering the time frame and resolution of 15 minutes
 
 ## 1.3 Which library version is used by the custom app
 
