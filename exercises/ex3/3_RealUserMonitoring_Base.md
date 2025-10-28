@@ -39,10 +39,6 @@ different platforms with a unified user experience using a common look-and-feel 
 - **Result**: All requests of type "SAPUI5" are shown
 ![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
 
-******** to be deleted *******
-- Navigate to Request Type "SAPUI5" in the SAP Build Work Zone, Standard Edition
-******** to be deleted *******
-
 The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective.
 The page "Requests" is hereby used.
 
