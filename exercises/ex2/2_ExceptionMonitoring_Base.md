@@ -23,7 +23,7 @@ unified user experience for all interface types using a common look-and-feel and
 - Apply your selection
 ![IEM Scope Selected](images/IEM_Scope_Selected.png)
 
-- **Result**: You will see services a card for services of the type “SAP BTP, Cloud Foundry environment” in the
+- **Result**: You will see a card for services of the type “SAP BTP, Cloud Foundry environment” in the
 Overview area, based on your selection.
 ![IEM Home](images/IEM_Home.png)
 
