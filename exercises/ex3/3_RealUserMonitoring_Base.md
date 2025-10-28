@@ -30,10 +30,10 @@ different platforms with a unified user experience using a common look-and-feel 
 - Navigate to Page "Requests"
 ![RUM Request Page Navigation](images/RUM_Highlight_RequestPage.png)
 
-
-
-- Filter on Request Types "SAPUI5"
+- Click on Filter
   ![RUM Request Page](images/RUM_SAPUI5_Requests_woFilter.png)
+- Select Request Types "SAPUI5"
+
   ![RUM Request Page Filter](images/RUM_Request_Filter.png)
 
 - **Result**: All requests of type "SAPUI5" are shown
