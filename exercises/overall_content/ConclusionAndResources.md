@@ -25,7 +25,7 @@ Contact our general inbox to reach out us:
 ## We Want Your Feedback 🗣️
 
 Tell us what worked, what didn’t, and what you’d love to see next time:  
-[Take the short survey](FEEDBACK_FORM_URL)
+![Your feedback matters](Your_feedback_matters.png)
 
 ## Shout‑Outs 🙏
 
