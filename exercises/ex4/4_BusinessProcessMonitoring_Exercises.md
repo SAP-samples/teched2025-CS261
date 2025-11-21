@@ -108,10 +108,12 @@ Select 'Destination City' is 'Hamburg'
 - **Result**
 ![BPMon Guided Tour](images/BPMon_GuidedTour.png)
 
+**Next Step**\
+This chapter has been added as an additional bonus chapter, so that you can also explore Synthetic User Monitoring:
+[Synthetic User Monitoring Overview](/exercises/ex5/5_SyntheticUserMonitoring_Base.md)
+
 **Additional Links**\
 [Business process Monitoring Overview](/exercises/ex4/4_BusinessProcessMonitoring_Base.md)\
 [Return to Session Overview](/README.md#overview)
 
 [Further Resources and Thank You](/exercises/overall_content/ConclusionAndResources.md)
-
-
