@@ -52,6 +52,15 @@ We already prepared the landscape for the session. You can find further details 
         - [4.4 Add an Event with a filter (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#44-add-an-event-with-a-filter-guided-exercise)
         - [4.5 Explore Guided Tours (Guided Exercise)](exercises/ex4/4_BusinessProcessMonitoring_Exercises.md#45-explore-guided-tours-guided-exercise)
 
+- [Synthetic User Monitoring](/exercises/ex5/)
+    - [Familiarize yourself with Synthetic User Monitoring](/exercises/ex5/5_SyntheticUserMonitoring_Base.md)
+    - [Exercise 5 - Using Synthetic User Monitoring](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md)
+        - [5.1 Percentage of availability problems](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md#51-percentage-of-availability-problems)
+        - [5.2 Error Details](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md#52-error-details)
+        - [5.3 Statistics](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md#53-statistics)
+        - [5.4 Configuration of the managed objects](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md#54-configuration-of-the-managed-objects)
+        - [5.5 Configuration of the managed objects (bonus)](/exercises/ex5/5_SyntheticUserMonitoring_Exercises.md#55-configuration-of-the-managed-objects-bonus)
+
 And Finally: 
     [Further Resources and Thank You](/exercises/overall_content/ConclusionAndResources.md)
 

@@ -23,7 +23,7 @@ How many Runners are configured?
 How many scenarios are associated to the runner On-Premise02?
 Among them, which ones are active?
 
-## Configuration of the managed objects (bonus)
+## 5.5 Configuration of the managed objects (bonus)
 
 Which monitoring events are configured?
 For which scenarios?
