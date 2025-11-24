@@ -11,6 +11,7 @@ You showed up, rolled up your sleeves, and turned ideas into working bits and by
 - Exception and Integration Monitoring
 - Real User Monitoring
 - Business Process Monitoring
+- Synthetic User Monitoring
 
 ## Further Readings 🧭
 
