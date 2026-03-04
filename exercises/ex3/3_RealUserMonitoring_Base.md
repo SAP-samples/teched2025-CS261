@@ -40,7 +40,7 @@ different platforms with a unified user experience using a common look-and-feel 
 ![RUM Request Page](images/RUM_Request_Dimensions_Result.png)
 
 - Click on "+ KPI Tag" to apply additional filters 
-![RUM Request Page Filter](images/RUM_Requests_FilterUI.png)
+![RUM Request Page Filter](images/RUM_SAPUI5_Requests_FilterUI.png)
 
 - **Result**: Only Requests for Action "KPI Tag" are shown
 ![RUM Request Page](images/RUM_SAPUI5_Requests_KPITag.png)
