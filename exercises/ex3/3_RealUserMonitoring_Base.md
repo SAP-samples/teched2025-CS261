@@ -31,10 +31,10 @@ different platforms with a unified user experience using a common look-and-feel 
 ![RUM Request Page Navigation](images/RUM_Highlight_RequestPage.png)
 
 - Click on Dimension
-![RUM Request Page](images/RUM_SAPUI5_Request_Dimensions.png)
+![RUM Request Page](images/RUM_Request_Dimensions.png)
 
 - Select "Request Name" and "Request Type"
-![RUM Request Page](images/RUM_SAPUI5_Request_Dimensions_Adjust.png)
+![RUM Request Page](images/RUM_Request_Dimensions_Adjust.png)
 
 - Click on Filter
 ![RUM Request Page](images/RUM_SAPUI5_Requests_woFilter.png)
