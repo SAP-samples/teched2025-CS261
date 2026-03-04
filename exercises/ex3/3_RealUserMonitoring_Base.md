@@ -30,11 +30,17 @@ different platforms with a unified user experience using a common look-and-feel 
 - Navigate to Page "Requests"
 ![RUM Request Page Navigation](images/RUM_Highlight_RequestPage.png)
 
-- Click on Filter
-  ![RUM Request Page](images/RUM_SAPUI5_Requests_woFilter.png)
-- Select Request Types "SAPUI5"
+- Click on Dimension
+![RUM Request Page](images/RUM_SAPUI5_Request_Dimensions.png)
 
-  ![RUM Request Page Filter](images/RUM_Request_Filter.png)
+- Select "Request Name" and "Request Type"
+![RUM Request Page](images/RUM_SAPUI5_Request_Dimensions_Adjust.png)
+
+- Click on Filter
+![RUM Request Page](images/RUM_SAPUI5_Requests_woFilter.png)
+  
+- Select Request Types "SAPUI5"
+![RUM Request Page Filter](images/RUM_Request_Filter.png)
 
 - **Result**: All requests of type "SAPUI5" are shown
 ![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
