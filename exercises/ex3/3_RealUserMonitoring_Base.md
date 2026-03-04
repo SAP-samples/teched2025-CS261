@@ -36,16 +36,19 @@ different platforms with a unified user experience using a common look-and-feel 
 - Select "Request Name" and "Request Type"
 ![RUM Request Page](images/RUM_Request_Dimensions_Adjust.png)
 
-- Click on Filter
-![RUM Request Page](images/RUM_SAPUI5_Requests_woFilter.png)
-  
-- Select Request Types "SAPUI5"
-![RUM Request Page Filter](images/RUM_Request_Filter.png)
+- **Result**: Requests are shown with additional Details
+![RUM Request Page](images/RUM_Request_Dimensions_Result.png)
 
-- **Result**: All requests of type "SAPUI5" are shown
-![RUM SAP UI5 Requests](images/RUM_SAPUI5_Requests.png)
+- Click on "+ KPI Tag" to apply additional filters 
+![RUM Request Page Filter](images/RUM_Request_FilterUI.png)
 
-The next steps are an example to explore the details in the area of the customer application “Travel Analytics” and performance perceived from an end-user perspective.
+- **Result**: Only Requests for Action "KPI Tag" are shown
+![RUM Request Page](images/RUM_SAPUI5_Requests_KPITag.png)
+
+- Click on Filter to see/adjust applied filters
+![RUM Request Page](images/RUM_SAPUI5_Requests_FilterDetails.png)
+
+The next steps are to explore the details of the customer application “Travel Analytics” and the performance perceived by end users.
 The page "Requests" is hereby used.
 
 - Click on Request name "sap.fe.travel_analytics"
@@ -55,7 +58,7 @@ The page "Requests" is hereby used.
 ![RUM Request KPI Tag](images/RUM_Request_KPI_Tag.png)
 
 - Navigate to a specific execution
-![RUM Execution Details](images/RUM_ExecutionDetails.png)
+![RUM Execution Details](images/RUM_ExecutionList.png)
 
 - Use Zoom
 ![RUM Execution Details Zoomed Out](images/RUM_ExecutionDetail_Zoomed.png)
