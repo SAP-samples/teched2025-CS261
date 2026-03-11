@@ -33,7 +33,7 @@ different platforms with a unified user experience using a common look-and-feel 
 - Click on Dimension
 ![RUM Request Page](images/RUM_Request_Dimensions.png)
 
-- Select "Request Name" and "Request Type"
+- Select "Request Name", "Request Type" and "Action"
 ![RUM Request Page](images/RUM_Request_Dimensions_Adjust.png)
 
 - **Result**: Requests are shown with additional Details
