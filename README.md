@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-CS261)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-CS261)
+
 # CS261 - Monitoring Custom SAP BTP Application with SAP Cloud ALM for Operations
 
 ## Description
